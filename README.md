@@ -37,6 +37,20 @@ PLAYER SET CREATION
     University of Kentucky: 7%).
 
            
+Q2. What cleaning data:
+
+-Handling Missing Values: Remove or impute missing data in critical columns (like points, assists, rebounds).
+
+-Data Type Conversion: Ensure numeric columns (like points, field goal percentage) are in the correct format.
+
+-Duplicate Removal: Eliminate any duplicate player records.
+
+-Normalization/Standardization: Normalize metrics like points, assists, and rebounds for analysis across different eras.
+
+-Filtering: Select specific seasons, players, or teams relevant to the analysis.
+
+-These steps ensure the dataset is clean, consistent, and ready for meaningful analysis.
+
 HEIGHT ISSUES
 
    In the dataset, the height information is provided in the format 'feet-inches', where a height of 70 inches would be represented as '6- 
@@ -48,11 +62,37 @@ BASIC ANALYSIS
   The goal is to observe changes in the players over the years from 1947 to   2018
 
  ![](images/chart3b.png)  
+From the distribution chart of player heights, we can make the following observations:
 
+1. The high concentration of players in the 190-210 cm height range is well-suited for basketball, as this is the typical height range for many successful basketball players. This 
+suggests the group likely consists of competitive basketball players.
+
+2. The presence of a significant number of players over 210 cm, up to 230 cm, is advantageous in basketball, as taller players often have advantages in areas like rebounding, blocking 
+shots, and scoring in the paint.
+
+3. The very low number of players under 180 cm is also fitting for basketball, as shorter players can face more challenges competing at the highest levels of the sport against taller 
+opponents.
+
+4. The normal distribution pattern indicates a balanced mix of player heights, which is typical of a healthy, well-rounded basketball team or talent pool, rather than an outlier group 
+skewed heavily towards only the tallest or shortest players.
+
+Overall, the height distribution shown aligns well with the physical requirements and player profiles found in high-level competitive basketball, suggesting this data likely represents 
+a group of elite basketball players or prospects.
  
  COMPARATIVE ANAYLYSIS          
         
   ![](images/chart4.png)  
+
+Based on the chart showing the average height by position over time in the NBA, we can make the following observations:
+1. The average height of the different positions has seen notable changes over the time periods:
+-The average height of the larger positions (center and forward) has trended upwards from the 1950s to the present.
+-The average height of the guard position has fluctuated less, but also shows a slight upward trend.
+2. The height differential between the positions has also been increasing over time:
+-From around 15-20 cm in the 1950s, the height gap has widened to 20-30 cm by 2015.
+-The center and forward positions have become increasingly taller compared to the guard position.
+3. The fluctuations in average height across the positions have been relatively stable, without any sudden dramatic changes.
+
+Overall, the chart reflects the changing structure of average heights by position in the NBA over time, with the height differential between the positions becoming more pronounced.
 
  LONGEVITY 
    
@@ -62,6 +102,16 @@ BASIC ANALYSIS
 
  ![](images/chart3c.png) 
 
+Based on the chart showing the average career length of NBA players, we can make the following observations:
+1. There is significant variability in the average career length of NBA players over time, ranging from around 2 years to nearly 7 years.
+
+2. From the 1950s to the 1970s, there is a general declining trend in average career length, from over 4 years down to below 4 years.
+
+3. From the 1970s to the 1990s, we see greater fluctuations, with clear peaks and valleys, as the average career length changes from around 3 years up to over 6 years.
+
+4. In the 1990s and 2000s, the average career length appears to stabilize more, oscillating around the 5-6 year range.
+
+Overall, the chart reflects substantial changes in the average NBA player career length over time, with notable ups and downs.
 
 **FINAL THOUGHTS**
 
