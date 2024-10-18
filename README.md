@@ -35,17 +35,20 @@ PLAYER SET CREATION
   
   college: Indicates the colleges that players attended, with a percentage showing the proportion of players from a specific college (e.g., 
     University of Kentucky: 7%).
-Analysis Considerations
-  Career Longevity: By looking at # year_start and # year_end, you can analyze trends in player longevity and how it has changed over the years.
+
+*Analysis Considerations
   
-  Position Trends: The position column allows for an understanding of how player roles have evolved in the sport, which can influence team dynamics.
+  -Career Longevity: By looking at # year_start and # year_end, you can analyze trends in player longevity and how it has changed over the years.
+  
+  -Position Trends: The position column allows for an understanding of how player roles have evolved in the sport, which can influence team dynamics.
 
-  Physical Attributes: Height and weight can be analyzed to determine if there are optimal physical characteristics for specific positions or overall performance.
+  -Physical Attributes: Height and weight can be analyzed to determine if there are optimal physical characteristics for specific positions or overall performance.
 
-  Demographic Insights: The birth_date and college columns provide insights into the demographics of the player pool, which can be useful for scouting and recruitment strategies.
+  -Demographic Insights: The birth_date and college columns provide insights into the demographics of the player pool, which can be useful for scouting and recruitment strategies.
+    
   Overall, these columns provide a comprehensive framework for analyzing player statistics and drawing insights into performance, career trends, and team compositions.
            
-Q2. What cleaning data:
+*What cleaning data:
 
 -Handling Missing Values: Remove or impute missing data in critical columns (like points, assists, rebounds).
 
