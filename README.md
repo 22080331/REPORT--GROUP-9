@@ -6,14 +6,14 @@
   ![](images/nab2.jpg)  
   
 
- INTRODUCTION 
+** INTRODUCTION **
  
   -The dataset "NBA Players Stats since 1950" is sourced from Kaggle, a well-known platform for data science competitions and datasets. It contains detailed statistical data for NBA
     players, starting from the 1950s to recent seasons. The dataset includes various player performance metrics like points per game, assists, rebounds, shooting 
     percentages, and more. Its purpose is to provide analysts and researchers with a comprehensive view of player performances across different eras of NBA history, enabling 
     comparisons and trend analysis over time
                                   
-PLAYER SET CREATION
+**PLAYER SET CREATION**
 
   ![](images/chart5d.png)      
 
@@ -36,7 +36,7 @@ PLAYER SET CREATION
   college: Indicates the colleges that players attended, with a percentage showing the proportion of players from a specific college (e.g., 
     University of Kentucky: 7%).
 
-*Analysis Considerations
+*ANALYSIS CONSIDERATIONS*
   
   -Career Longevity: By looking at # year_start and # year_end, you can analyze trends in player longevity and how it has changed over the years.
   
@@ -48,7 +48,7 @@ PLAYER SET CREATION
     
   Overall, these columns provide a comprehensive framework for analyzing player statistics and drawing insights into performance, career trends, and team compositions.
            
-*What cleaning data:
+*WHAT CLEANING DATA*
 
 -Handling Missing Values: Remove or impute missing data in critical columns (like points, assists, rebounds).
 
@@ -62,13 +62,13 @@ PLAYER SET CREATION
 
 -These steps ensure the dataset is clean, consistent, and ready for meaningful analysis.
 
-HEIGHT ISSUES
+**HEIGHT ISSUES**
 
    In the dataset, the height information is provided in the format 'feet-inches', where a height of 70 inches would be represented as '6- 
    10', meaning 6 feet 10 inches. Since this format can complicate calculations, I have written the following code to convert these values 
    into the equivalent number of inches.
    
-BASIC ANALYSIS
+**BASIC ANALYSIS**
 
   The goal is to observe changes in the players over the years from 1947 to   2018
 
@@ -90,8 +90,7 @@ skewed heavily towards only the tallest or shortest players.
 Overall, the height distribution shown aligns well with the physical requirements and player profiles found in high-level competitive basketball, suggesting this data likely represents 
 a group of elite basketball players or prospects.
  
- COMPARATIVE ANAYLYSIS          
-        
+** COMPARATIVE ANAYLYSIS ** 
   ![](images/chart4.png)  
 
 Based on the chart showing the average height by position over time in the NBA, we can make the following observations:
@@ -105,7 +104,7 @@ Based on the chart showing the average height by position over time in the NBA, 
 
 Overall, the chart reflects the changing structure of average heights by position in the NBA over time, with the height differential between the positions becoming more pronounced.
 
- LONGEVITY 
+** LONGEVITY **
    
    Lastly let's attempt to get a sense of whether players who come into the NBA today are staying longer, or exiting quicker than those of  
    
