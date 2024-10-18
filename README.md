@@ -91,6 +91,7 @@ Overall, the height distribution shown aligns well with the physical requirement
 a group of elite basketball players or prospects.
  
 COMPARATIVE ANAYLYSIS 
+
   ![](images/chart4.png)  
 
 Based on the chart showing the average height by position over time in the NBA, we can make the following observations:
@@ -113,6 +114,7 @@ Overall, the chart reflects the changing structure of average heights by positio
  ![](images/chart3c.png) 
 
 Based on the chart showing the average career length of NBA players, we can make the following observations:
+
 1. There is significant variability in the average career length of NBA players over time, ranging from around 2 years to nearly 7 years.
 
 2. From the 1950s to the 1970s, there is a general declining trend in average career length, from over 4 years down to below 4 years.
