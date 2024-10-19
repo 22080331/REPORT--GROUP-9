@@ -64,7 +64,9 @@ Filtering: Select players, or teams relevant to the analysis
    
 
 
-COMPARATIVE ANAYLYSIS  
+COMPARATIVE ANAYLYSIS 📊
+
+HEIGHT
 
  ![](images/NAM3.png)  
 
@@ -79,7 +81,8 @@ Overall: By visually inspecting the histogram, we can estimate that the mean (av
 Height and Frequency: The relationship between height and the number of players is shown by the shape of the histogram. As height increases, the number of players initially increases, reaches a peak, and then decreases
 
 The chart shows that height is an important factor affecting the selection and success of NBA players. However, besides height, other factors such as skill, physical strength, and tactics also play an important role in determining the success of a player.
-  📊
+
+WEIGHT  
 
   ![](images/NAM1.png) 
 
