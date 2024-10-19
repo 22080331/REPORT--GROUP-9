@@ -6,6 +6,7 @@
   ![](images/nab2.jpg)  
 
   Members of group:🎱
+  
                               |Họ và Tên| MSV | 
                               |--------------   |-------|
                               | ĐẶNG TRỌNG NAM  | 22080331 | 
@@ -16,11 +17,11 @@
                               | NGÔ TIẾN HUY    | 22080319 | 
                   
 
-#.INTRODUCTION 
+# 1.INTRODUCTION 
  
   -The "NBA Player Statistics Since 1950" dataset is sourced from Kaggle, the dataset includes detailed statistical data for NBA players including: player name, starting year, ending year,position, height, weight, date of birth and college the players attended
                                   
- #.PLAYER SET CREATION
+# 1.PLAYER SET CREATION
 
   ![](images/chart5d.png)      
 
@@ -41,7 +42,7 @@
   
   college: Indicates the colleges that players attended
 
-#.ANALYSIS CONSIDERATIONS📌
+# 1.ANALYSIS CONSIDERATIONS📌
 
 -Career longevity: By looking at "#year_start - #year_end", that can analyze trends in player longevity and how it has changed over the years.
 
@@ -49,7 +50,7 @@
 
 -Physical attributes: Height and weight can be analyzed to determine whether there are optimal physical characteristics for specific positions or overall performance.
            
-#.WHAT CLEANING DATA 
+# 1.WHAT CLEANING DATA 
 
 -Handling Missing Values: Remove or impute missing data in critical columns (like school, position, height, weight, etc.)
 
@@ -58,9 +59,9 @@
 -Filtering: Select players, or teams relevant to the analysis
 
 
-#.COMPARATIVE ANAYLYSIS 📊
+# 1.COMPARATIVE ANAYLYSIS 📊
 
- ##.WEIGHT
+ ###### 6.WEIGHT
 
  ![](images/NAM3.png)  
 
@@ -79,7 +80,7 @@
  -The weight of the Forward position has changed significantly from 1945 to 2015. However, it generally remains stable at around 90-100 kg due to the need for balance between offense 
   and defense.
 
-##.HEIGHT  
+###### 6.HEIGHT  
 
   ![](images/NAM1.png) 
 
@@ -94,7 +95,7 @@
  -Guard: The height distribution graph of the Guard is skewed to the left, indicating that most players in this position are below average in height.
 
 
-##.RELATION OF WEIGHT AND HEIGHT
+###### 6.RELATION OF WEIGHT AND HEIGHT
 
  ![](images/NAM5.png) 
 
@@ -113,7 +114,7 @@
   -Guards with Outliers: there are a few Guards that are notably heavy for their height. This hints at outliers, however, they might have unique physiques or playing styles. Although 
    some might think this is unusual, it can actually be an advantage. Because of their weight, they can hold their ground better during games, but it's not just about size.
 
-#.FINAL THOUGHTS
+# 1.FINAL THOUGHTS
 
 This chart shows the physical diversity within the NBA by position. It highlights how body size plays a big role in deciding a player’s position.However, there are still exceptions that differ from the majority, showcasing the diversity and uniqueness of the NBA.
 
