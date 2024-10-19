@@ -62,7 +62,7 @@
 -Filtering: Select players, or teams relevant to the analysis
 
 
-# 5.COMPARATIVE ANAYLYSIS 📊
+# 5.BASIC ANAYLYSIS 📊
 
 ###### 5.1.WEIGHT  
 
