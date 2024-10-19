@@ -8,7 +8,7 @@
 
   Members of group
   
-                              |Họ và Tên| MSV | 
+                              |  FULL NAME      | ID number|  
                               |--------------   |----------|
                               | ĐẶNG TRỌNG NAM  | 22080331 | 
                               | ĐINH LÂM PHƯƠNG | 22080337 | 
