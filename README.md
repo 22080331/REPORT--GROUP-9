@@ -66,7 +66,7 @@ Filtering: Select players, or teams relevant to the analysis
 
 COMPARATIVE ANAYLYSIS 📊
 
-HEIGHT
+WEIGHT
 
  ![](images/NAM3.png)  
 
@@ -82,7 +82,7 @@ Height and Frequency: The relationship between height and the number of players 
 
 The chart shows that height is an important factor affecting the selection and success of NBA players. However, besides height, other factors such as skill, physical strength, and tactics also play an important role in determining the success of a player.
 
-WEIGHT  
+HEIGHT  
 
   ![](images/NAM1.png) 
 
