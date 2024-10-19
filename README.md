@@ -80,19 +80,17 @@ Height and Frequency: The relationship between height and the number of players 
 
 The chart shows that height is an important factor affecting the selection and success of NBA players. However, besides height, other factors such as skill, physical strength, and tactics also play an important role in determining the success of a player.
  
-COMPARATIVE ANAYLYSIS 
+COMPARATIVE ANAYLYSIS 📊
 
   ![](images/NAM1.png) 
   
-Overall, the chart reflects the change in the average height structure by position in the NBA over time, in which the height difference between positions is increasingly evident.
+The chart analyzes the average height trend of NBA players by position, with the height difference between positions becoming more and more pronounced.
 
-The average height of different positions has changed markedly over time: - The average height of larger positions (midfielders and strikers) has tended to increase from the 1950s to the present.
+Center: The height distribution graph of the Center is skewed to the right, indicating that most players in this position are above average in height.
 
--The average height of the guard position tends to increase slightly.
+Forward: The height distribution graph of the Forward is quite symmetrical, indicating that the height distribution of players in this position is relatively even.
 
-The height difference between positions is also increasing over time: -From about 15-20 cm in the 1950s, by 2015 the height gap was 20-30cm. -The average forward and striker positions are increasingly higher than other positions. 
-
-The average height difference between locations is relatively stable, with no sudden changes.
+Guard: The height distribution graph of the Guard is skewed to the left, indicating that most players in this position are below average in height.
 
 
 
