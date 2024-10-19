@@ -145,9 +145,8 @@ This dataset serves as a rich resource for sports analysts, researchers, and bas
 
 dives into player performances and the changing dynamics of the NBA. By analyzing this data, one can uncover trends in playing styles, 
 
-individual achievements, and how the league has evolved over time. Whether for academic purposes or fan engagement, the dataset offers a 
-
-robust foundation for NBA-related insights.
+individual achievements, and how the league has evolved over time. Whether for academic purposes or fan engagement, the dataset offers
+a  robust foundation for NBA-related insights.
 
 SOURCES
  
