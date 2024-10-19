@@ -121,19 +121,7 @@ This chart shows the physical diversity within the NBA by position. It highlight
 SOURCES
  
      https://www.kaggle.com/drgilermo/nba-players-stats?select=player_data.csv
-      ĐINH LÂM PHƯƠNG-22080337
-  
-                     ĐẶNG TRỌNG NAM-22080331
-                     
-                     NGÔ TIẾN HUY-22080319
-                     
-                     HOÀNG QUỐC BẢO-22080304
-                     
-                     HÀ NGỌC ANH-22080294
-                     
-                     TRẦN KHÁNH LINH-22080324
-                
-
+      
    
                   
                                                          
