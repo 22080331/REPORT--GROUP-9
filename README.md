@@ -66,7 +66,7 @@ BASIC ANALYSIS
 
   The goal is to observe changes in the players over the years from 1947 to   2018
 
- ![](images/chart3b.png)  
+ ![](images/NAM3.png)  
 
 Normal distribution: The chart shows a nearly normal (bell-shaped) height distribution of NBA players.
 
