@@ -24,7 +24,7 @@
                                   
 ## 2.PLAYER SET CREATION
 
-  ![](NAM8.png)      
+  ![](images/NAM8.png)      
 
     
   name: The name of the player.
