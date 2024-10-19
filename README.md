@@ -82,57 +82,36 @@ BASIC ANALYSIS
   The goal is to observe changes in the players over the years from 1947 to   2018
 
  ![](images/chart3b.png)  
-From the distribution chart of player heights, we can make the following observations:
 
-1. The high concentration of players in the 190-210 cm height range is well-suited for basketball, as this is the typical height range for many successful basketball players. This 
-suggests the group likely consists of competitive basketball players.
+Normal distribution: The chart shows a nearly normal (bell-shaped) height distribution of NBA players.
 
-2. The presence of a significant number of players over 210 cm, up to 230 cm, is advantageous in basketball, as taller players often have advantages in areas like rebounding, blocking 
-shots, and scoring in the paint.
+Mean value: The average height of the players is in the range of 195-205cm, which is quite high compared to the average height of adults.
 
-3. The very low number of players under 180 cm is also fitting for basketball, as shorter players can face more challenges competing at the highest levels of the sport against taller 
-opponents.
-
-4. The normal distribution pattern indicates a balanced mix of player heights, which is typical of a healthy, well-rounded basketball team or talent pool, rather than an outlier group 
-skewed heavily towards only the tallest or shortest players.
-
-Overall, the height distribution shown aligns well with the physical requirements and player profiles found in high-level competitive basketball, suggesting this data likely represents 
-a group of elite basketball players or prospects.
+Overall: By visually inspecting the histogram, we can estimate that the mean (average) height of the players is around 200-205 cm. This is based on the peak of the distribution being located within this range.
+-Considering Relationships
+Height and Frequency: The relationship between height and the number of players is shown by the shape of the histogram. As height increases, the number of players initially increases, reaches a peak, and then decreases.
+The chart shows that height is an important factor affecting the selection and success of NBA players. However, besides height, other factors such as skill, physical strength, and tactics also play an important role in determining the success of a player.
  
 COMPARATIVE ANAYLYSIS 
 
-  ![](images/chart4.png)  
+  ![](images/chart4.png) 
+  
+The average height of different positions has changed markedly over time: - The average height of larger positions (midfielders and strikers) has tended to increase from the 1950s to the present. -The average height of the guard position tends to increase slightly.
+The height difference between positions is also increasing over time: -From about 15-20 cm in the 1950s, by 2015 the height gap was 20-30cm. -The average forward and striker positions are increasingly higher than other positions. 
 
-Based on the chart showing the average height by position over time in the NBA, we can make the following observations:
-1. The average height of the different positions has seen notable changes over the time periods:
--The average height of the larger positions (center and forward) has trended upwards from the 1950s to the present.
--The average height of the guard position has fluctuated less, but also shows a slight upward trend.
-2. The height differential between the positions has also been increasing over time:
--From around 15-20 cm in the 1950s, the height gap has widened to 20-30 cm by 2015.
--The center and forward positions have become increasingly taller compared to the guard position.
-3. The fluctuations in average height across the positions have been relatively stable, without any sudden dramatic changes.
+The average height difference between locations is relatively stable, with no sudden changes.
 
-Overall, the chart reflects the changing structure of average heights by position in the NBA over time, with the height differential between the positions becoming more pronounced.
+Overall, the chart reflects the change in the average height structure by position in the NBA over time, in which the height difference between positions is increasingly evident.
 
- LONGEVITY 
-   
-   Lastly let's attempt to get a sense of whether players who come into the NBA today are staying longer, or exiting quicker than those of  
-   
-  the 70s to 90s era. To do this however, we must omit players who are still playing, as they do not have a year_end date
+LONGEVITY   
 
  ![](images/chart3c.png) 
 
-Based on the chart showing the average career length of NBA players, we can make the following observations:
-
-1. There is significant variability in the average career length of NBA players over time, ranging from around 2 years to nearly 7 years.
-
-2. From the 1950s to the 1970s, there is a general declining trend in average career length, from over 4 years down to below 4 years.
-
-3. From the 1970s to the 1990s, we see greater fluctuations, with clear peaks and valleys, as the average career length changes from around 3 years up to over 6 years.
-
-4. In the 1990s and 2000s, the average career length appears to stabilize more, oscillating around the 5-6 year range.
-
-Overall, the chart reflects substantial changes in the average NBA player career length over time, with notable ups and downs.
+Overall, the graph shows an upward trend from 1950 to 2000.
+From the 1950s to the 1970s, there was a general trend of average career length decreasing, from over 4 years to under 4 years.
+From the 1970s to the 1990s, we saw greater volatility, with clear peaks and troughs, as the average career length changed from around 3 years to over 6 years.
+In the 1990s and 2000s, the average career length seemed more stable, fluctuating between 5-6 years.
+Although there were many fluctuations, overall it still clearly shows that the career length of players is increasing over the years, showing that players are sticking with their football team for longer periods of time.
 
 **FINAL THOUGHTS**
 
