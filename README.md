@@ -62,7 +62,7 @@
 
 # 5.COMPARATIVE ANAYLYSIS 📊
 
-###### 5.2.WEIGHT  
+###### 5.1.WEIGHT  
 
  ![](images/NAM3.png)  
 
