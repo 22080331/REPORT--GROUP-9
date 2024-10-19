@@ -21,7 +21,7 @@
  
   -The "NBA Player Statistics Since 1950" dataset is sourced from Kaggle, the dataset includes detailed statistical data for NBA players including: player name, starting year, ending year,position, height, weight, date of birth and college the players attended
                                   
-# 1.PLAYER SET CREATION
+## 2..PLAYER SET CREATION
 
   ![](images/chart5d.png)      
 
@@ -42,7 +42,7 @@
   
   college: Indicates the colleges that players attended
 
-# 1.ANALYSIS CONSIDERATIONS📌
+## 3.ANALYSIS CONSIDERATIONS📌
 
 -Career longevity: By looking at "#year_start - #year_end", that can analyze trends in player longevity and how it has changed over the years.
 
@@ -50,7 +50,7 @@
 
 -Physical attributes: Height and weight can be analyzed to determine whether there are optimal physical characteristics for specific positions or overall performance.
            
-# 1.WHAT CLEANING DATA 
+## 4.WHAT CLEANING DATA 
 
 -Handling Missing Values: Remove or impute missing data in critical columns (like school, position, height, weight, etc.)
 
@@ -59,7 +59,7 @@
 -Filtering: Select players, or teams relevant to the analysis
 
 
-# 1.COMPARATIVE ANAYLYSIS 📊
+# 5.COMPARATIVE ANAYLYSIS 📊
 
  ###### 6.WEIGHT
 
