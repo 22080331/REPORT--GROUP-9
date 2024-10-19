@@ -1,11 +1,11 @@
                                    INTRODUCTION TO DATA SCIENCE
                                                             -Lecturer:EMANUELPLAN
 
-                                    REPORT-GROUP 9 :TOPIC BASKETBALL 
+                                    REPORT-GROUP 9 :TOPIC BASKETBALL 🏀
 
   ![](images/nab2.jpg)  
 
-  Members of group:  
+  Members of group:🎱
                     
                      ĐINH LÂM PHƯƠNG-22080337
   
@@ -22,9 +22,7 @@
 
 INTRODUCTION 
  
-  -The dataset "NBA Players Stats since 1950" is sourced from Kaggle, a well-known platform for data science competitions and datasets. It contains detailed statistical data for NBA
-    players, starting from the 1950s to recent seasons. The dataset includes various player performance metrics like points per game, assists, rebounds, shooting 
-    percentages, and more. 
+  -The "NBA Player Statistics Since 1950" dataset is sourced from Kaggle, the dataset includes detailed statistical data for NBA players including: player name, starting year, ending year,position, height, weight, date of birth and college the players attended
                                   
  PLAYER SET CREATION
 
@@ -33,43 +31,35 @@ INTRODUCTION
     
   name: The name of the player.
 
-  year_start: The starting year of the player's career or the year they began playing in the dataset.
+  year_start:  The year they began playing in the dataset.
   
-  year_end: The ending year of the player's career or the year they stopped playing in the dataset.
+  year_end:    The year they stopped playing in the dataset.
   
-  position: The positions that players typically occupy, with percentages indicating the proportion of players in each position:
+  position: The positions that players typically occupy 
   
-  height: The height of players, categorized into ranges (e.g., 6-7, 6-8) with the percentage indicating how many players fall into each 
-   range.
+  height: The height of players 
 
-  weight: The weight of players, possibly indicating distribution across different weight ranges.
+  weight: The weight of players .
   
-  birth_date: The birth dates of players, with a histogram showing how many players were born in specific years.
+  birth_date: The birth dates of players
   
-  college: Indicates the colleges that players attended, with a percentage showing the proportion of players from a specific college (e.g., 
-    University of Kentucky: 7%).
+  college: Indicates the colleges that players attended
 
-ANALYSIS CONSIDERATIONS
-  
-  -Career Longevity: By looking at # year_start and # year_end, you can analyze trends in player longevity and how it has changed over the years.
-  
-  -Position Trends: The position column allows for an understanding of how player roles have evolved in the sport, which can influence team dynamics.
+ANALYSIS CONSIDERATIONS📌
 
-  -Physical Attributes: Height and weight can be analyzed to determine if there are optimal physical characteristics for specific positions or overall performance.
+-Career longevity: By looking at "#year_start - #year_end", that can analyze trends in player longevity and how it has changed over the years.
 
-  -Demographic Insights: The birth_date and college columns provide insights into the demographics of the player pool, which can be useful for scouting and recruitment strategies.
-    
-  Overall, these columns provide a comprehensive framework for analyzing player statistics and drawing insights into performance, career trends, and team compositions.
+-Position trends: The position column allows you to understand how a player's role has evolved in the sport, which can then be used to analyze trends in the average height of each position
+
+-Physical attributes: Height and weight can be analyzed to determine whether there are optimal physical characteristics for specific positions or overall performance.
            
-WHAT CLEANING DATA
+WHAT CLEANING DATA 🙉
 
--Handling Missing Values
+Handling Missing Values: Remove or impute missing data in critical columns (like school, position, height, weight, etc.)
 
--Data Type Conversion
+Removing Duplicates: Remove any duplicate player records.
 
--Duplicate Removal
-
--Normalization/Standardization
+Filtering: Select players, or teams relevant to the analysis
 
    
 BASIC ANALYSIS
