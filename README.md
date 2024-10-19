@@ -121,7 +121,7 @@ This chart shows the physical diversity within the NBA by position. It highlight
 SOURCES
  
     
-     [Github]([https://github.com](https://www.kaggle.com/drgilermo/nba-players-stats?select=player_data.csv)) 
+     [Github](https://github.com](https://www.kaggle.com/drgilermo/nba-players-stats?select=player_data.csv)
    
                   
                                                          
