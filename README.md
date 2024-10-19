@@ -61,7 +61,7 @@
 
 # 5.COMPARATIVE ANAYLYSIS 📊
 
- ###### 6.WEIGHT
+ ###### 5.1.WEIGHT
 
  ![](images/NAM3.png)  
 
@@ -80,7 +80,7 @@
  -The weight of the Forward position has changed significantly from 1945 to 2015. However, it generally remains stable at around 90-100 kg due to the need for balance between offense 
   and defense.
 
-###### 6.HEIGHT  
+###### 5.2.HEIGHT  
 
   ![](images/NAM1.png) 
 
@@ -95,7 +95,7 @@
  -Guard: The height distribution graph of the Guard is skewed to the left, indicating that most players in this position are below average in height.
 
 
-###### 6.RELATION OF WEIGHT AND HEIGHT
+###### 5.3.RELATION OF WEIGHT AND HEIGHT
 
  ![](images/NAM5.png) 
 
@@ -114,7 +114,7 @@
   -Guards with Outliers: there are a few Guards that are notably heavy for their height. This hints at outliers, however, they might have unique physiques or playing styles. Although 
    some might think this is unusual, it can actually be an advantage. Because of their weight, they can hold their ground better during games, but it's not just about size.
 
-# 1.FINAL THOUGHTS
+# 6.FINAL THOUGHTS
 
 This chart shows the physical diversity within the NBA by position. It highlights how body size plays a big role in deciding a player’s position.However, there are still exceptions that differ from the majority, showcasing the diversity and uniqueness of the NBA.
 
