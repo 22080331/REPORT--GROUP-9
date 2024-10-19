@@ -76,11 +76,6 @@ WHAT CLEANING DATA
 
 -These steps ensure the dataset is clean, consistent, and ready for meaningful analysis.
 
-HEIGHT ISSUES
-
-   In the dataset, the height information is provided in the format 'feet-inches', where a height of 70 inches would be represented as '6- 
-   10', meaning 6 feet 10 inches. Since this format can complicate calculations, I have written the following code to convert these values 
-   into the equivalent number of inches.
    
 BASIC ANALYSIS
 
