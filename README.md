@@ -53,7 +53,7 @@ ANALYSIS CONSIDERATIONS📌
 
 -Physical attributes: Height and weight can be analyzed to determine whether there are optimal physical characteristics for specific positions or overall performance.
            
-WHAT CLEANING DATA 🙉
+WHAT CLEANING DATA 
 
 Handling Missing Values: Remove or impute missing data in critical columns (like school, position, height, weight, etc.)
 
@@ -83,15 +83,16 @@ The chart shows that height is an important factor affecting the selection and s
 COMPARATIVE ANAYLYSIS 📊
 
   ![](images/NAM1.png) 
-  
-The chart analyzes the average height trend of NBA players by position, with the height difference between positions becoming more and more pronounced.
+
+Normal distribution chart
+
+The histogram chart analyzes the average height trend of NBA players by position, with the height difference between positions becoming more and more pronounced.
 
 Center: The height distribution graph of the Center is skewed to the right, indicating that most players in this position are above average in height.
 
 Forward: The height distribution graph of the Forward is quite symmetrical, indicating that the height distribution of players in this position is relatively even.
 
 Guard: The height distribution graph of the Guard is skewed to the left, indicating that most players in this position are below average in height.
-
 
 
 LONGEVITY   
