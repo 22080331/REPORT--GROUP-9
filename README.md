@@ -21,7 +21,7 @@
  
   -The "NBA Player Statistics Since 1950" dataset is sourced from Kaggle, the dataset includes detailed statistical data for NBA players including: player name, starting year, ending year,position, height, weight, date of birth and college the players attended
                                   
-## 2..PLAYER SET CREATION
+## 2.PLAYER SET CREATION
 
   ![](images/chart5d.png)      
 
