@@ -92,7 +92,7 @@ The chart shows that height is an important factor affecting the selection and s
  
 COMPARATIVE ANAYLYSIS 
 
-  ![](images/chart4.png) 
+  ![](images/NAM1.png) 
   
 Overall, the chart reflects the change in the average height structure by position in the NBA over time, in which the height difference between positions is increasingly evident.
 
