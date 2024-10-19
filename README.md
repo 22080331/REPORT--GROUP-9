@@ -95,9 +95,9 @@ Forward: The height distribution graph of the Forward is quite symmetrical, indi
 Guard: The height distribution graph of the Guard is skewed to the left, indicating that most players in this position are below average in height.
 
 
-LONGEVITY   
+RELATION OF WEIGHT AND HEIGHT
 
- ![](images/chart3c.png) 
+ ![](images/NAM5.png) 
 
 Overall, the graph shows an upward trend from 1950 to 2000.
 
