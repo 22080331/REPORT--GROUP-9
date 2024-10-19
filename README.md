@@ -1,14 +1,15 @@
                                    INTRODUCTION TO DATA SCIENCE
+                                                            
                                                             -Lecturer:EMANUELPLAN
 
                                     REPORT-GROUP 9 :TOPIC BASKETBALL 🏀
 
   ![](images/nab2.jpg)  
 
-  Members of group:🎱
+  Members of group
   
                               |Họ và Tên| MSV | 
-                              |--------------   |-------|
+                              |--------------   |----------|
                               | ĐẶNG TRỌNG NAM  | 22080331 | 
                               | ĐINH LÂM PHƯƠNG | 22080337 | 
                               | HÀ NGỌC ANH     | 22080294 | 
