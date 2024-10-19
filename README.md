@@ -20,7 +20,7 @@
 
 # 1.INTRODUCTION 
  
-  -The "NBA Player Statistics Since 1950" dataset is sourced from Kaggle, the dataset includes detailed statistical data for NBA players including: player name, starting year, ending year,position, height, weight, date of birth and college the players attended
+  -The "player_data.csv" dataset is sourced NBA Player Statistics Since 1950 from Kaggle, the dataset includes detailed statistical data for NBA players including: player name, starting year, ending year,position, height, weight, date of birth and college the players attended
                                   
 ## 2.PLAYER SET CREATION
 
@@ -43,6 +43,7 @@
   
   college: Indicates the colleges that players attended
 
+
 ## 3.ANALYSIS CONSIDERATIONS📌
 
 -Career longevity: By looking at "#year_start - #year_end", that can analyze trends in player longevity and how it has changed over the years.
@@ -50,6 +51,7 @@
 -Position trends: The position column allows you to understand how a player's role has evolved in the sport, which can then be used to analyze trends in the average height of each position
 
 -Physical attributes: Height and weight can be analyzed to determine whether there are optimal physical characteristics for specific positions or overall performance.
+
            
 ## 4.WHAT CLEANING DATA 
 
@@ -115,7 +117,7 @@
   -Guards with Outliers: there are a few Guards that are notably heavy for their height. This hints at outliers, however, they might have unique physiques or playing styles. Although 
    some might think this is unusual, it can actually be an advantage. Because of their weight, they can hold their ground better during games, but it's not just about size.
 
-# 6.FINAL THOUGHTS
+# 6.CONCLUSION
 
 This chart shows the physical diversity within the NBA by position. It highlights how body size plays a big role in deciding a player’s position.However, there are still exceptions that differ from the majority, showcasing the diversity and uniqueness of the NBA.
 
