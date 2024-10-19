@@ -142,11 +142,9 @@ Overall, the chart reflects substantial changes in the average NBA player career
 **FINAL THOUGHTS**
 
 This dataset serves as a rich resource for sports analysts, researchers, and basketball enthusiasts. Its breadth and depth allow for deep
-
 dives into player performances and the changing dynamics of the NBA. By analyzing this data, one can uncover trends in playing styles, 
-
 individual achievements, and how the league has evolved over time. Whether for academic purposes or fan engagement, the dataset offers
-a  robust foundation for NBA-related insights.
+a robust foundation for NBA-related insights.
 
 SOURCES
  
