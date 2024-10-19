@@ -24,7 +24,7 @@
                                   
 ## 2.PLAYER SET CREATION
 
-  ![](images/chart5d.png)      
+  ![](NAM8.png)      
 
     
   name: The name of the player.
