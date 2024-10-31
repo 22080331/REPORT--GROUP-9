@@ -74,7 +74,7 @@ Possible Reasons: Some customers do not feel very inclined to use any debit card
 
 ###### 5.5.DISTRIBUTION OF PAYMENT MODE
 
-![](images/ẢNH.jpg)
+![](images/ảnh2.jpg)
 
 # 6.CONCLUSION
 
