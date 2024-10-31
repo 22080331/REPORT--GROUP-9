@@ -72,9 +72,9 @@ Possible Reasons: Some customers do not feel very inclined to use any debit card
  ![](images/subcategory.jpg) 
 
 
-###### 5.4.DISTRIBUTION OF PAYMENT MODE
+###### 5.5.DISTRIBUTION OF PAYMENT MODE
 
- ![](images/payment.jpg) 
+![](images/ẢNH.jpg)
 
 # 6.CONCLUSION
 
