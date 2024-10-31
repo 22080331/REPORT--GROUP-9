@@ -2,7 +2,7 @@
                                                             
                                                             -Lecturer:EMANUELPLAN
 
-                                    REPORT-GROUP 9 :TOPIC BASKETBALL 🏀
+                                    REPORT-GROUP 9 :ONLINE SALES
 
   ![](images/nab2.jpg)  
 
@@ -19,29 +19,10 @@
                   
 
 # 1.INTRODUCTION 
- 
-  -The "player_data.csv" dataset is sourced NBA Player Statistics Since 1950 from Kaggle, the dataset includes detailed statistical data for NBA players including: player name, starting year, ending year,position, height, weight, date of birth and college the players attended
-                                  
-## 2.PLAYER SET CREATION
+-Online sales is the sale of goods over the Internet, allowing customers to easily purchase and pay securely online without having to visit a store. .In today's digital age, online sales have become an integral part of the goods business landscape. It has a significant impact on consumer behavior and business strategies, as well as the consumer market and most factors related to the goods business. This project explores the complexities of online sales through data visualization, aiming to uncover trends, patterns, and insights of customer that drive successful e-commerce strategies. We aim to answer essential questions related to sales total, customer buying habits, needs, and seasonal order fluctuations.This analysis contributes to businesses' ability to understand their current performance. Additionally, it supports forecasting future trends and making informed decisions and strategic directions for their business.
 
-  ![](images/NAM8.png)      
-
-    
-  name: The name of the player.
-
-  year_start:  The year they began playing in the dataset.
-  
-  year_end:    The year they stopped playing in the dataset.
-  
-  position: The positions that players typically occupy 
-  
-  height: The height of players 
-
-  weight: The weight of players .
-  
-  birth_date: The birth dates of players
-  
-  college: Indicates the colleges that players attended
+## 2.BASIC ANALYSIS
+![](images/ảnh1.png)                      ![](images/ảnh2.png) 
 
 
 ## 3.ANALYSIS CONSIDERATIONS📌
@@ -66,26 +47,40 @@
 
 ###### 5.1.WEIGHT  
 
- ![](images/NAM3.png)  
+ ![](images/)  
 
--This chart shows the average weight of NBA players throughout the years. It's divided by position—Guards (blue), Forwards (green) and Centers (red). This pattern reveals how 
- different roles demand different body types
+COD (Cash on Delivery):
+Observation: COD ranks high on the popularity scale as it was utilized for nearly 700 of the transactions made.
+Possible Reasons: Customers who are unsecure by insecurity about either a good or a retailer frequently prefer to pay on delivery as they can always check out what they want to purchase before making any payment.
+In Clothing and Electronics category, COD is frequently employed in low to middle market segments. This is probably because COD type transactions are risk ,  people may also be wary to utilize them to purchase high value items for reasons of safety 
 
- -Upward trend over time: all three positions show a general increase in average weight from 1945 to 2015. This reflects changes in training and nutrition, but also the evolving 
-  physical demands of the NBA.
+UPI (Unified Payment Interface):
+Observation: UPI is the second most practice payment mode, as its number of transactions is significantly high.
+Possible Reasons: UPI is cost effective since it involves low or none transaction costs and it is quite efficient for making smaller and fast . UPI may be generally deployed while making medium range purchases in the Furniture and Electronics categories as it is simple and safe. It is possible that high valued transactions via this method are less frequently used as a result of transfer limitations or security issues for bulk amounts.
 
- -Centers consistently heaviest the red line for Centers shows that players in this position have always been the heaviest. Centers often need a larger frame for rebounding and 
-  defending the paint. The significant changes in weight over the years also reflect the intentions and strategies of the team at different times.
+Debit Card:
+Observation It was noted that though a Debit Card was used, it is not the preferred method compared to UPI or COD.
+Possible Reasons: It is possible to theorize that some customers do not like to utilize debit cards too often for security reasons, so they will likely use UPI and other secure methods such as the Cash on Delivery.
+Consumers may view Debit Cards as an alternative form of payment, offsetting the spending amount lower than UPI on average. However, this is particularly true in instances where UPI limits the purchasing power but the total value is modest enough to enable a single transaction.
 
- -Weight of Guards remains the lowest Guards show a slow increase in weight over time, however, they stay the lightest position on the timeline. This is expected, because guards 
-  depend more on speed and agility than on size.
+Credit Card:
+Observation: Usage of a Credit Card is not much different from that of a Debit Card.
+Possible Reasons: It must be noted that a sizable portion of the purchase made with a Credit Card comes with either some rewards, cash back or installments and thus offers great value to slightly higher-value items. Nevertheless, they may be avoided for minor or routine transactions to avoid debt accruements.
+It is probable that customers may utilize Credit Cards generally for their higher value purchases, more so electronics. It is possible their usage may be driven by the credit available as well as their reward points for purchases where payment cannot be made immediately.
 
- -The weight of the Forward position has changed significantly from 1945 to 2015. However, it generally remains stable at around 90-100 kg due to the need for balance between offense 
-  and defense.
+Debit Card:
+Observation: Debit Card is moderately popular nowadays but less use than UPI or COD.
+Possible Reasons: Some customers do not feel very inclined to use any debit cards because of security issues, hence would rather do UPI or pay cash on delivery.
+ UPI is expected to have lower average spending amounts as compared to than Debit Cards even in Categories like Furniture. When UPI limits set are too low, but the cost of the intended purchase can be paid in one sitting then it will be preferred.
+
+Credit Card:
+Observation: The observation in respect to Credit Card is the same as that of Debit Card.
+Although Credit Cards offer good rewards/cash back or pay in installments, they are still only beneficial if the purchase value is low and so paying for smaller or routine transactions will not build up debt.
+ Credit Card may also be used in case of customers making higher value purchases in the category of Electronics. Possibly the combination of credit and reward points could be a reason for usage especially for individuals who foresee that at the time of purchase they would not be able to make the payment.
 
 ###### 5.2.HEIGHT  
 
-  ![](images/NAM1.png) 
+  ![](images/ảnh1.png) 
 
 -Normal distribution chart
 
