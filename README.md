@@ -87,44 +87,66 @@ Sikkim, and Tamil Nadu have only 8 to 12 orders, indicating a much lower consump
 
   ![](images/trend.jpg) 
 
-1. Overall Trend and Regression Line Analysis
-This Scatter Plot shows a weak positive correlation. The blue regression line is slightly pointed upwards, indicating that for increasing amounts spent, the profit also does an uptrend but not with constancy and strength.
-Here, the points are extensively scattered, indicating that other factors such as product type or pricing strategy do play a role in setting the profit margin.
-The R-square value, if computed, would be comparatively low, an indication that expenditure on its own does not explain much of the variation in profit.
+- Overall Trend and Regression Line Analysis
+    This Scatter Plot shows a weak positive correlation. The blue regression line is slightly pointed upwards, indicating that for 
+    increasing amounts spent, the profit also does an uptrend but not with constancy and strength.
+    Here, the points are extensively scattered, indicating that other factors such as product type or pricing strategy do play a role in 
+    setting the profit margin.
+    The R-square value, if computed, would be comparatively low, an indication that expenditure on its own does not explain much of the 
+    variation in profit.
 
-2. Profit Trend Across Segments
+1. Profit Trend Across Segments
 Electronics-Red points:
 
-The electronics transactions have a wide range from low to high amount and profits are very volatile.
-Some of the electronics orders had negative profits, meaning below the zero of the Y-axis; this could imply pricing strategies like discounts, promotions, or bundled offers.
-A small portion of the orders for electronics result in very high profits over 1000 units, which again points to the likelihood that expensive orders for high-end devices or accessories bring in large returns.
-Furniture Gray points:
+    The electronics transactions have a wide range from low to high amount and profits are very volatile.
+    Some of the electronics orders had negative profits, meaning below the zero of the Y-axis; this could imply pricing strategies like 
+    discounts, promotions, or bundled offers.
+    A small portion of the orders for electronics result in very high profits over 1000 units, which again points to the likelihood that 
+    expensive orders for high-end devices or accessories bring in large returns.
+    Furniture Gray points:
+    
+    Like electronics, furniture orders do have a wide range in their quantity, but there are more outliers in terms of very high quantities 
+    above 2000. This reflects the fact that large purchases of furniture items, such as sofas or desks, tend to be costlier.
+    It can be observed that the range of profit is very wide, with many large profits (> 1000) existing. These can be from high-margin 
+    items or customized furniture pieces.
+    Losses for small and medium-sized transactions cluster together; this may be due to logistics costs or discounts.
+    Clothing (Blue points):
+    
+    Amounts and profits from clothing transactions tend to be low. This is due to typical retail trends where purchases of clothing are low 
+    in amount and yield low profits.
+    Most points are closely bunched between 0 to 500 in amount and -500 to 500 in profit. The variance compared with other categories may 
+    be so small because of the standardized pricing and low margins in the clothing retail business.
 
-Like electronics, furniture orders do have a wide range in their quantity, but there are more outliers in terms of very high quantities above 2000. This reflects the fact that large purchases of furniture items, such as sofas or desks, tend to be costlier.
-It can be observed that the range of profit is very wide, with many large profits (> 1000) existing. These can be from high-margin items or customized furniture pieces.
-Losses for small and medium-sized transactions cluster together; this may be due to logistics costs or discounts.
-Clothing (Blue points):
-
-Amounts and profits from clothing transactions tend to be low. This is due to typical retail trends where purchases of clothing are low in amount and yield low profits.
-Most points are closely bunched between 0 to 500 in amount and -500 to 500 in profit. The variance compared with other categories may be so small because of the standardized pricing and low margins in the clothing retail business.
-
-3. Losses and Negative Profit Orders
-Several points below the zero profit line reveal that the orders resulted in losses.
-These are more frequent in electronics and furniture transactions; presumably because of high operating costs or heavy discounts, even returns of merchandise.
-In the case of clothing, there are fewer losses, which could indicate that pricing strategies or inventory control might be better for this category.
+2. Losses and Negative Profit Orders
+    Several points below the zero profit line reveal that the orders resulted in losses.
+    These are more frequent in electronics and furniture transactions; presumably because of high operating costs or heavy discounts, even 
+    returns of merchandise.
+    In the case of clothing, there are fewer losses, which could indicate that pricing strategies or inventory control might be better for 
+    this category.
 
 4. Outliers and Extreme Values
-Outliers appear in both profit and amount:
-For Furniture, a couple of points have values greater than 2000 with profits over 1000; these correspond to large or custom orders that have disproportionately high profit margins. Electronics also shows some outliers, suggesting there are sometimes large-ticket items  that generate unpredictable profitability.
+    Outliers appear in both profit and amount:
+    For Furniture, a couple of points have values greater than 2000 with profits over 1000; these correspond to large or custom orders that 
+    have disproportionately high profit margins. Electronics also shows some outliers, suggesting there are sometimes large-ticket items  
+    that generate unpredictable profitability.
 
- 5. Implications and Business Insights Furniture can indeed generate both super-high profits and huge losses, thus underpinning the importance of managing inventories and logistics related to big items effectively.
-High variability in both profit and amount for Electronics suggests that product mix, discounting strategies, and customer demand are key in profitability. 
-Clothing profits are consistent but smaller, reflecting a more predictable and stable business model with fewer large outliers or extreme losses. 
-Conclusion and Recommendations
-The margin in electronics and furniture orders is somewhat volatile; therefore, there is the emergence of loss-making transactions. Perhaps dynamic pricing or special bundle offers would keep profitability good.
-Clothing has more stable margins but may be improved by upselling strategies that increase the transaction amount.
-Overall, the weak positive correlation suggests that it cannot be stated with certainty whether increasing order amount alone guarantees increased profits. Rather, product mix, operational efficiencies, and pricing strategies hold the key to maximization of profits by the owners of the businesses.
-
+     5. Implications and Business Insights Furniture :
+        
+    indeed generate both super-high profits and huge losses, thus underpinning the importance of managing inventories and logistics related 
+    to big items effectively.
+    High variability in both profit and amount for Electronics suggests that product mix, discounting strategies, and customer demand are 
+    key in profitability. 
+    Clothing profits are consistent but smaller, reflecting a more predictable and stable business model with fewer large outliers or 
+    extreme losses. 
+   Conclusion and Recommendations
+    The margin in electronics and furniture orders is somewhat volatile; therefore, there is the emergence of loss-making transactions. 
+    Perhaps dynamic pricing or special bundle offers would keep profitability good.
+    Clothing has more stable margins but may be improved by upselling strategies that increase the transaction amount.
+    Overall, the weak positive correlation suggests that it cannot be stated with certainty whether increasing order amount alone 
+    guarantees 
+    increased profits. Rather, product mix, operational efficiencies, and pricing strategies hold the key to maximization of profits by the 
+    owners of the businesses.
+    
 
 
 
