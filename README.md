@@ -91,6 +91,7 @@ Sikkim, and Tamil Nadu have only 8 to 12 orders, indicating a much lower consump
 This Scatter Plot shows a weak positive correlation. The blue regression line is slightly pointed upwards, indicating that for increasing amounts spent, the profit also does an uptrend but not with constancy and strength.
 Here, the points are extensively scattered, indicating that other factors such as product type or pricing strategy do play a role in setting the profit margin.
 The R-square value, if computed, would be comparatively low, an indication that expenditure on its own does not explain much of the variation in profit.
+
 2. Profit Trend Across Segments
 Electronics-Red points:
 
@@ -106,10 +107,12 @@ Clothing (Blue points):
 
 Amounts and profits from clothing transactions tend to be low. This is due to typical retail trends where purchases of clothing are low in amount and yield low profits.
 Most points are closely bunched between 0 to 500 in amount and -500 to 500 in profit. The variance compared with other categories may be so small because of the standardized pricing and low margins in the clothing retail business.
+
 3. Losses and Negative Profit Orders
 Several points below the zero profit line reveal that the orders resulted in losses.
 These are more frequent in electronics and furniture transactions; presumably because of high operating costs or heavy discounts, even returns of merchandise.
 In the case of clothing, there are fewer losses, which could indicate that pricing strategies or inventory control might be better for this category.
+
 4. Outliers and Extreme Values
 Outliers appear in both profit and amount:
 For Furniture, a couple of points have values greater than 2000 with profits over 1000; these correspond to large or custom orders that have disproportionately high profit margins. Electronics also shows some outliers, suggesting there are sometimes large-ticket items  that generate unpredictable profitability. 5. Implications and Business Insights Furniture can indeed generate both super-high profits and huge losses, thus underpinning the importance of managing inventories and logistics related to big items effectively.
@@ -141,6 +144,7 @@ Analysis by Category
 2. Electronics - 20.5%
 • Average rate: Although not as high as Clothing, 20.5% is still a significant rate, showing that electronic devices have a stable demand in the market.Because electronic products are often high-value and feature constantly upgraded technology. Customers do not buy these products very often, but when they do, they are willing to pay more. This reflects the development of devices such as phones, computers, and technological home appliances.
 Electronics is a highly profitable field due to stable demand and often high order values. Businesses can consider developing new technology products or other electronic products to meet the diverse needs of customers.
+
 3. Furniture - 16.2%
 • Lowest percentage: At only 16.2%, Furniture is the least popular category among the three, possibly due to the nature of the product. Because furniture is often high-value and does not need to be purchased frequently, resulting in fewer orders than products such as clothing. In addition, furniture purchases are often tied to long-term needs or special occasions such as moving house or renovating a living space.
 Although demand may seem low, furniture is still a category that can be highly profitable due to large order values. Businesses can target high-end customers or expand into smaller, more easily consumed interior decoration products.
