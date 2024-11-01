@@ -115,7 +115,9 @@ In the case of clothing, there are fewer losses, which could indicate that prici
 
 4. Outliers and Extreme Values
 Outliers appear in both profit and amount:
-For Furniture, a couple of points have values greater than 2000 with profits over 1000; these correspond to large or custom orders that have disproportionately high profit margins. Electronics also shows some outliers, suggesting there are sometimes large-ticket items  that generate unpredictable profitability. 5. Implications and Business Insights Furniture can indeed generate both super-high profits and huge losses, thus underpinning the importance of managing inventories and logistics related to big items effectively.
+For Furniture, a couple of points have values greater than 2000 with profits over 1000; these correspond to large or custom orders that have disproportionately high profit margins. Electronics also shows some outliers, suggesting there are sometimes large-ticket items  that generate unpredictable profitability.
+
+ 5. Implications and Business Insights Furniture can indeed generate both super-high profits and huge losses, thus underpinning the importance of managing inventories and logistics related to big items effectively.
 High variability in both profit and amount for Electronics suggests that product mix, discounting strategies, and customer demand are key in profitability. 
 Clothing profits are consistent but smaller, reflecting a more predictable and stable business model with fewer large outliers or extreme losses. 
 Conclusion and Recommendations
