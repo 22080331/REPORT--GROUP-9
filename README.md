@@ -59,13 +59,15 @@
 
 ![](images/ảnh3.png)  
 
-
-The line chart shows clear fluctuations between periods with a downward trend, stabilizing at a low mid-year and increasing slightly towards the end of the year.
-
 -Overview:
-The peak was at the beginning of the year with orders above January, then gradually decreasing and remaining at a low level from May to September, before recovering towards the end of the year.
+
+  The line chart shows clear fluctuations between periods with a downward trend, stabilizing at a low mid-year and increasing slightly 
+  towards the end of the year.
+  The peak was at the beginning of the year with orders above January, then gradually decreasing and remaining at a low level from May to 
+  September, before recovering towards the end of the year.
 
 -Detailed comments by each seasion:
+
 + Seasion1 (January - March):
   Orders were high at the beginning of the quarter with over 60 orders in January, then decreasing to around 50 orders in March.
   This quarter has a decreasing trend from high to low, but still remains higher than the following quarters. This may be a peak period, 
@@ -78,8 +80,8 @@ The peak was at the beginning of the year with orders above January, then gradua
 +Seasion 3 (July - September):
   The number of orders remained low and quite stable around the 30-order mark. This can be considered a "slowdown" period for the number of 
   orders, possibly due to seasonal factors or business cycles.
-+Seasion 4 (October - December):
 
++Seasion 4 (October - December):
   There was a clear recovery, the number of orders increased again, peaking in November (over 40 orders) and then decreasing slightly in 
   December, reflecting the growth trend at the end of the year.
 
