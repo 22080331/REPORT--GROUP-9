@@ -85,7 +85,7 @@ Sikkim, and Tamil Nadu have only 8 to 12 orders, indicating a much lower consump
 
 ###### 5.2.TREND BETW
 
-  ![](images/trend.jpg) 
+  ![](images/nam123.jpg) 
 
 - Overall Trend and Regression Line Analysis
     This Scatter Plot shows a weak positive correlation. The blue regression line is slightly pointed upwards, indicating that for 
