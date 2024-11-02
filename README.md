@@ -19,7 +19,9 @@
                   
 
 # 1.INTRODUCTION 
--Online sales is the sale of goods over the Internet, allowing customers to easily purchase and pay securely online without having to visit a store. .In today's digital age, online sales have become an integral part of the goods business landscape. It has a significant impact on consumer behavior and business strategies, as well as the consumer market and most factors related to the goods business. This project explores the complexities of online sales through data visualization, aiming to uncover trends, patterns, and insights of customer that drive successful e-commerce strategies. We aim to answer essential questions related to sales total, customer buying habits, needs, and seasonal order fluctuations.This analysis contributes to businesses' ability to understand their current performance. Additionally, it supports forecasting future trends and making informed decisions and strategic directions for their business.
+-Online sales is the sale of goods over the Internet, allowing customers to easily purchase and pay securely online without having to visit a store. .In today's digital age, online sales have become an integral part of the goods business landscape. It has a significant impact on consumer behavior and business strategies, as well as the consumer market and most factors related to the goods business. This project explores the complexities of online sales through data visualization, aiming to uncover trends, patterns, and insights of customer that drive successful e-commerce strategies. We aim to answer essential questions related to sales total, customer buying habits, needs, and seasonal order fluctuations.
+This analysis contributes to businesses' ability to understand their current performance. Additionally, it supports forecasting future  
+trends and making informed decisions and strategic directions for their business.
 
 ## 2.DATA SOURCES📌
 
@@ -91,7 +93,7 @@
  ![](images/ảnh1.jpg)  
 
 
-- # Overview:
+-  Overview:
    The chart "Distribution Top 10 States by order" shows the number of orders in the 10 states with the highest number of 
    orders in India. The height of each column corresponds to the number of orders placed in that state, namely:
 + Maharashtra and Madhya Pradesh lead with similar orders, 94 and 93 orders respectively. These two states dominate the other states.
@@ -99,9 +101,10 @@
 + States such as Punjab, Delhi, and West Bengal have orders ranging from 20 to 25, indicating a similar level of orders here.
 + States at the bottom of the list, such as Goa, Sikkim, and Tamil Nadu have only 8 to 12 orders, indicating a much lower consumption level 
   than the leading states.
-=> Overall, Maharashtra and Madhya Pradesh are the two states with the most active online ordering activity, while other states have significant variations in the number of orders.
+=> Overall, Maharashtra and Madhya Pradesh are the two states with the most active online ordering activity, while other states have 
+   significant variations in the number of orders.
 
-# The large difference in the number of online orders between states in India is a common phenomenon and has many factors influencing it, specifically:
+The large difference in the number of online orders between states in India is a common phenomenon and has many factors influencing it, specifically:
 
 -Socio-economic factors:
  +  Level of economic development: States with more developed economies and higher per capita income often have higher consumption demand, 
@@ -138,24 +141,36 @@
 
  ![](images/category.jpg) 
  
- Overview:
-• Clothing is clearly dominant, reflecting strong customer demand for fashion products.
+ - Overview:
+ 
+  + Clothing is clearly dominant, reflecting strong customer demand for fashion products.
 
-• Electronics has a medium share, reflecting stable demand, but not as dominant as clothing.
+  + Electronics has a medium share, reflecting stable demand, but not as dominant as clothing.
 
-• Furniture is the category with the lowest demand, possibly due to the product's high cost and infrequent purchase characteristics.
+  + Furniture is the category with the lowest demand, possibly due to the product's high cost and infrequent purchase characteristics.
 
 Analysis by Category
 - Clothing - 63.3%
-• Dominance: With 63.3%,This shows a strong focus on fashion product Because fashion is often a necessity, abundant, and diverse, leading to high consumption. In addition, the seasonal factor and frequently changing fashion trends also encourage consumers to shop more.This also suggests that if businesses want to increase profits, they can consider adding new product lines or special promotional campaigns for clothing.
+ + Dominance: With 63.3%,This shows a strong focus on fashion product Because fashion is often a necessity, abundant, and diverse, leading 
+   to high consumption. In addition, the seasonal factor and frequently changing fashion trends also encourage consumers to shop more.This 
+   also suggests that if businesses want to increase profits, they can consider adding new product lines or special promotional campaigns 
+   for  clothing.
 
 - Electronics - 20.5%
-• Average rate: Although not as high as Clothing, 20.5% is still a significant rate, showing that electronic devices have a stable demand in the market.Because electronic products are often high-value and feature constantly upgraded technology. Customers do not buy these products very often, but when they do, they are willing to pay more. This reflects the development of devices such as phones, computers, and technological home appliances.
-Electronics is a highly profitable field due to stable demand and often high order values. Businesses can consider developing new technology products or other electronic products to meet the diverse needs of customers.
+ + Average rate: Although not as high as Clothing, 20.5% is still a significant rate, showing that electronic devices have a stable 
+   demand in the market.Because electronic products are often high-value and feature constantly upgraded technology. Customers do not buy 
+   these products very often, but when they do, they are willing to pay more. This reflects the development of devices such as phones, c 
+   computers, and technological home appliances.
+   Electronics is a highly profitable field due to stable demand and often high order values. Businesses can consider developing new 
+   technology products or other electronic products to meet the diverse needs of customers.
 
 - Furniture - 16.2%
-• Lowest percentage: At only 16.2%, Furniture is the least popular category among the three, possibly due to the nature of the product. Because furniture is often high-value and does not need to be purchased frequently, resulting in fewer orders than products such as clothing. In addition, furniture purchases are often tied to long-term needs or special occasions such as moving house or renovating a living space.
-Although demand may seem low, furniture is still a category that can be highly profitable due to large order values. Businesses can target high-end customers or expand into smaller, more easily consumed interior decoration products.
+ + Lowest percentage: At only 16.2%, Furniture is the least popular category among the three, possibly due to the nature of the product. 
+   Because furniture is often high-value and does not need to be purchased frequently, resulting in fewer orders than products such as 
+   clothing. In addition, furniture purchases are often tied to long-term needs or special occasions such as moving house or renovating a 
+   living space.
+   Although demand may seem low, furniture is still a category that can be highly profitable due to large order values. Businesses can 
+   target high-end customers or expand into smaller, more easily consumed interior decoration products.
 
 ==> # Conclusion:
   This chart not only shows the distribution of orders across categories but also provides insight into market demand and customer shopping 
@@ -178,34 +193,36 @@ Although demand may seem low, furniture is still a category that can be highly p
  + Saree is the most frequent sub-category, followed by Hankerchief and Stole.
 
  + Tables and Trousers are the least frequent sub-categories.
+
 - Data Points:
- + The chart shows the distribution of sales across various sub-categories.
+ +  The chart shows the distribution of sales across various sub-categories.
 
- + The y-axis represents the count of sales for each sub-category.
+ +  The y-axis represents the count of sales for each sub-category.
 
- + The x-axis lists the categories in descending order of frequency.
+ +  The x-axis lists the categories in descending order of frequency.
   
 - Insights:
-  + The company appears to be selling a wide range of products, with a heavy focus on apparel and accessories.
+  +  The company appears to be selling a wide range of products, with a heavy focus on apparel and accessories.
     
-   • Sarees are the most popular item, indicating a potential and essential market demand for this product.
+  +  Sarees are the most popular item, indicating a potential and essential market demand for this product.
  
-   • Handkerchiefs and scarves also have a significant presence, indicating a potential market in these items.
+  +  Handkerchiefs and scarves also have a significant presence, indicating a potential market in these items.
 
 Tables and Trousers have the lowest sales, which could indicate potential areas for improvement in marketing or product offerings.
 
 - Additional Considerations:
- It would be helpful to overlay this chart with trends.
+ +  It would be helpful to overlay this chart with trends.
 
- Analyzing sales data alongside other metrics and factors such as revenue, benefits, and customer demographics can provide additional 
- insights and insights.
+ +  Analyzing sales data alongside other metrics and factors such as revenue, benefits, and customer demographics can provide additional 
+    insights and insights.
 
-Recommendations:
-Focus on promoting Sarees, Hankerchiefs, and Stoles to capitalize on their popularity and provide items that customers need.
+- Recommendations:
+  
+ + Focus on promoting Sarees, Hankerchiefs, and Stoles to capitalize on their popularity and provide items that customers need.
 
-Conduct market research to identify the reasons for low sales of Tables and Trousers.
+ + Conduct market research to identify the reasons for low sales of Tables and Trousers.
 
-Consider diversifying the product range or implementing targeted marketing strategies for these sub-categories.
+ + Consider diversifying the product range or implementing targeted marketing strategies for these sub-categories.
 
 ###### 5.5.DISTRIBUTION OF PAYMENT MODE
 
@@ -213,17 +230,22 @@ Consider diversifying the product range or implementing targeted marketing strat
 
 -From the pie chart :
 
-+ Most Prominent Payment Style is 'COD (Cash On Delivery): larger segment with a proportion of 45.6%. This indicates that COD is the mode 
- of choice since it enjoys the most popularity among customers, meaning that there is a high confidence level among customers in making 
- payments that are physical and immediate.
+  + Most Prominent Payment Style is 'COD (Cash On Delivery): larger segment with a proportion of 45.6%. This indicates that COD is the mode 
+   of choice since it enjoys the most popularity among customers, meaning that there is a high confidence level among customers in making 
+   payments that are physical and immediate.
+    
+  + The second biggest share of the pie is the 22,1% which owes to the ‘UPI’ (Unified payment interfaces). We see an increasing trend 
+    towards mobile/digital payment options which shows that there is a growing trend of customers who like fast and easy electronic 
+    payments.
   
-+ The second biggest share of the pie is the 22,1% which owes to the ‘UPI’ (Unified payment interfaces). We see an increasing trend towards mobile/digital payment options which shows that there is a growing trend of customers who like fast and easy electronic payments.
-
-+ “Debit Card” is in the position of third and is credited with 13.5% allocation giving it slight consideration.
-
-+ 10.9% is the ‘Credit Card’ take and could as a result that  not many customers want to go this route due to interest or possible debts racked up from using credit.
+  + “Debit Card” is in the position of third and is credited with 13.5% allocation giving it slight consideration.
   
-+ The least used method “EMI” can be described as 8% and people are probably not going for this payment mode frequently with regard to their order of payment that is made in parts per month.
+  + 10.9% is the ‘Credit Card’ take and could as a result that  not many customers want to go this route due to interest or possible debts 
+    racked up from using credit.
+    
+  + The least used method “EMI” can be described as 8% and people are probably not going for this payment mode frequently with regard to 
+    their order of payment that is made in parts per month.
+
 --> # Conclusion:
 The pie chart indicates that among all the customers  most prefer to pay either using COD or UPI. The high percentage of customers using COD means that they trust and are comfortable with the idea of paying cash upon delivery. A high share of UPI shows a tendency to the direction of cashless transactions. On the other hand, low percentages for debit, credit and EMI suggest that many customers prefer straightforward and easy means of payment.
 
