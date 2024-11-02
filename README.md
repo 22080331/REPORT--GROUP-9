@@ -27,7 +27,7 @@
 
 ![](images/datail.jpg) 
 
--Order ID (in both files): To connect data between two tables.
+-Order ID : To connect data between two tables,can know number of order
 
 -Amount and Profit: Analyze revenue and profit.
 
