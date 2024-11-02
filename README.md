@@ -27,7 +27,17 @@
 
 ![](images/datail.jpg) 
 
+-Order ID (in both files): To connect data between two tables.
 
+-Amount and Profit: Analyze revenue and profit.
+
+-Order Date: Look at trends over time.
+
+-State and City: Analyze by region.
+
+-Category and Sub-Category: Analyze by product type
+
+-Paymentmode: Commonly used payment method
            
 ## 3.WHAT CLEANING DATA 
 
@@ -221,35 +231,19 @@ Consider diversifying the product range or implementing targeted marketing strat
 
 ![](images/newplot.png)
 
--COD (Cash on Delivery):
-Observation: COD is most popular paymentmode
-
-Relationship with Amount and Category:In Clothing and Electronics category, COD is frequently employed in low to middle market segments. This is probably because COD type transactions are risk ,  people may also be wary to utilize them to purchase high value items for reasons of safety 
-
--UPI (Unified Payment Interface):
-Observation: UPI is the second most practice payment mode, as its number of transactions is significantly high.
-
-Relationship with Amount and Category:UPI may be generally deployed while making medium range purchases in the Furniture and Electronics categories as it is simple and safe. It is possible that high valued transactions via this method are less frequently used as a result of transfer limitations or security issues for bulk amounts.
-
--Debit Card:
-Observation: Debit Card is moderately popular nowadays but less use than UPI or COD.
-
-Relationship with Amount and Category:UPI is expected to have lower average spending amounts as compared to than Debit Cards even in Categories like Furniture. When UPI limits set are too low, but the cost of the intended purchase can be paid in one sitting then it will be preferred.
-
--Credit Card:
-Observation: The observation in respect to Credit Card is the same as that of Debit Card.
-
-Relationship with Amount and Category:Credit Card  also be used in case of customers making higher value purchases in the category of Electronics. Possibly the combination of credit and reward points could be a reason for usage especially for individuals who foresee that at the time of purchase they would not be able to make the payment.
-
--EMI (Equated Monthly Installments):
-Observation: EMI is one of the least popular forms of payment.
-
-Relationship with Amount and Category: There may be more instances of EMI in Electronics or Furniture goods. The average order amounts per transaction using EMI are larger than per transaction amounts made using other payment modes because’s EMIs are for high cost produmets.
-
+-From the pie chart :
++Most Prominent Payment Style is 'COD (Cash On Delivery): larger segment with a proportion of 45.6%. This indicates that COD is the mode of choice since it enjoys the most popularity among customers, meaning that there is a high confidence level among customers in making payments that are physical and immediate.
++The second biggest share of the pie is the 22,1% which owes to the ‘UPI’ (Unified payment interfaces). We see an increasing trend towards mobile/digital payment options which shows that there is a growing trend of customers who like fast and easy electronic payments.
++“Debit Card” is in the position of third and is credited with 13.5% allocation giving it slight consideration.
+-10.9% is the ‘Credit Card’ take and could as a result that  not many customers want to go this route due to interest or possible debts racked up from using credit.
++The least used method “EMI” can be described as 8% and people are probably not going for this payment mode frequently with regard to their order of payment that is made in parts per month.
+-->Conclusion:
+The pie chart indicates that among all the customers  most prefer to pay either using COD or UPI. The high percentage of customers using COD means that they trust and are comfortable with the idea of paying cash upon delivery. A high share of UPI shows a tendency to the direction of cashless transactions. On the other hand, low percentages for debit, credit and EMI suggest that many customers prefer straightforward and easy means of payment.
 
 
 # 6.CONCLUSION
 
+As we can see, online sales are an extremely important form of business in the context of goods trading. This is clearly demonstrated in the charts we present in various aspects. Overall, all data on online business has fluctuations and uneven development in each aspect that we analyze.
 
 # 7.REFERENCES
     
