@@ -96,11 +96,11 @@ trends and making informed decisions and strategic directions for their business
 -  Overview:
    The chart "Distribution Top 10 States by order" shows the number of orders in the 10 states with the highest number of 
    orders in India. The height of each column corresponds to the number of orders placed in that state, namely:
-+ Maharashtra and Madhya Pradesh lead with similar orders, 94 and 93 orders respectively. These two states dominate the other states.
-+ Rajasthan ranks third with 32 orders, followed by Gujarat and Uttar Pradesh with similar orders (27 and 25 orders).
-+ States such as Punjab, Delhi, and West Bengal have orders ranging from 20 to 25, indicating a similar level of orders here.
-+ States at the bottom of the list, such as Goa, Sikkim, and Tamil Nadu have only 8 to 12 orders, indicating a much lower consumption level 
-  than the leading states.
+ + Maharashtra and Madhya Pradesh lead with similar orders, 94 and 93 orders respectively. These two states dominate the other states.
+ + Rajasthan ranks third with 32 orders, followed by Gujarat and Uttar Pradesh with similar orders (27 and 25 orders).
+ + States such as Punjab, Delhi, and West Bengal have orders ranging from 20 to 25, indicating a similar level of orders here.
+ + States at the bottom of the list, such as Goa, Sikkim, and Tamil Nadu have only 8 to 12 orders, indicating a much lower consumption 
+   level than the leading states.
 => Overall, Maharashtra and Madhya Pradesh are the two states with the most active online ordering activity, while other states have 
    significant variations in the number of orders.
 
@@ -149,23 +149,23 @@ The large difference in the number of online orders between states in India is a
 
   + Furniture is the category with the lowest demand, possibly due to the product's high cost and infrequent purchase characteristics.
 
-Analysis by Category
-- Clothing - 63.3%
- + Dominance: With 63.3%,This shows a strong focus on fashion product Because fashion is often a necessity, abundant, and diverse, leading 
+- Analysis by Category
++ Clothing - 63.3%
+   Dominance: With 63.3%,This shows a strong focus on fashion product Because fashion is often a necessity, abundant, and diverse, leading 
    to high consumption. In addition, the seasonal factor and frequently changing fashion trends also encourage consumers to shop more.This 
    also suggests that if businesses want to increase profits, they can consider adding new product lines or special promotional campaigns 
    for  clothing.
 
-- Electronics - 20.5%
- + Average rate: Although not as high as Clothing, 20.5% is still a significant rate, showing that electronic devices have a stable 
++ Electronics - 20.5%
+   Average rate: Although not as high as Clothing, 20.5% is still a significant rate, showing that electronic devices have a stable 
    demand in the market.Because electronic products are often high-value and feature constantly upgraded technology. Customers do not buy 
    these products very often, but when they do, they are willing to pay more. This reflects the development of devices such as phones, c 
    computers, and technological home appliances.
    Electronics is a highly profitable field due to stable demand and often high order values. Businesses can consider developing new 
    technology products or other electronic products to meet the diverse needs of customers.
 
-- Furniture - 16.2%
- + Lowest percentage: At only 16.2%, Furniture is the least popular category among the three, possibly due to the nature of the product. 
+ + Furniture - 16.2%
+   Lowest percentage: At only 16.2%, Furniture is the least popular category among the three, possibly due to the nature of the product. 
    Because furniture is often high-value and does not need to be purchased frequently, resulting in fewer orders than products such as 
    clothing. In addition, furniture purchases are often tied to long-term needs or special occasions such as moving house or renovating a 
    living space.
