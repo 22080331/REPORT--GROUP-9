@@ -219,7 +219,7 @@ Consider diversifying the product range or implementing targeted marketing strat
 
 ###### 5.5.DISTRIBUTION OF PAYMENT MODE
 
-![](images/ảnh2.jpg)
+![](images/newplot.png)
 
 -COD (Cash on Delivery):
 Observation: COD is most popular paymentmode
