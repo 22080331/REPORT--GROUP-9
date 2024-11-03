@@ -291,9 +291,8 @@ Reasons:
 
 +Diversification of payment methods: Customers can choose more payment methods, meeting different needs and preferences of each person
 
-+Revealing the development potential of electronic payments: Although COD is still dominant, the proportion of electronic payment methods is increasing, showing the trend of switching
-
- from cash payment to non-cash payment.
++Revealing the development potential of electronic payments: Although COD is still dominant, the proportion of electronic payment methods is increasing, 
+ showing the trend of switching  from cash payment to non-cash payment.
 
 +The popularity of mobile payment applications, promotional policies, and the reliability of electronic payment systems can be factors driving the growth of these payment methods.
 
