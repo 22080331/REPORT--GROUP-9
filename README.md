@@ -271,28 +271,23 @@ The large difference in the number of online orders between states in India is a
 
 ![](images/newplot.png)
 
--From the pie chart :
+-The pie chart shows an overview of customers' payment habits:
 
-  + Most Prominent Payment Style is 'COD (Cash On Delivery): larger segment with a proportion of 45.6%. This indicates that COD is the mode 
-   of choice since it enjoys the most popularity among customers, meaning that there is a high confidence level among customers in making 
-   payments that are physical and immediate.
-    
-  + The second biggest share of the pie is the 22,1% which owes to the ‘UPI’ (Unified payment interfaces). We see an increasing trend 
-    towards mobile/digital payment options which shows that there is a growing trend of customers who like fast and easy electronic 
-    payments.
-  
-  + “Debit Card” is in the position of third and is credited with 13.5% allocation giving it slight consideration.
-  
-  + 10.9% is the ‘Credit Card’ take and could as a result that  not many customers want to go this route due to interest or possible debts 
-    racked up from using credit.
-    
-  + The least used method “EMI” can be described as 8% and people are probably not going for this payment mode frequently with regard to 
-    their order of payment that is made in parts per month.
++ COD is the most popular method (45.6%) showing that many people still prefer to check the goods before paying.
 
-Conclusion:
- The pie chart indicates that among all the customers  most prefer to pay either using COD or UPI. The high percentage of customers using COD means that they trust and are comfortable 
- with the idea of paying cash upon delivery. A high share of UPI shows a tendency to the direction of cashless transactions. On the other hand, low percentages for debit, credit and 
- EMI suggest that many customers prefer straightforward and easy means of payment.
++ Electronic payments are increasingly popular: such as UPI, Debit Cards, Credit Cards and installment payments (EMI) 
+   also account for a significant proportion, showing the growth of non-cash payment methods.
+  With:
+  UPI(Unified Payments Interface): 22.1%
+  Debit Card: 13.5%
+  Credit Card: 10.9%
+  EMI(Equated Monthly Instalment): 8%
+Reasons:
++Diversification of payment methods: Customers can choose more payment methods, meeting different needs and preferences of each person
+
++Revealing the development potential of electronic payments: Although COD is still dominant, the proportion of electronic payment methods is increasing, showing the trend of switching from cash payment to non-cash payment.
+
++The popularity of mobile payment applications, promotional policies, and the reliability of electronic payment systems can be factors driving the growth of these payment methods.
 
 
 # 6.CONCLUSION
