@@ -68,7 +68,7 @@ trends and making informed decisions and strategic directions for their business
   The peak was at the beginning of the year with orders above January, then gradually decreasing and remaining at a low level from May to 
   September, before recovering towards the end of the year.
 
-- # Detailed comments by each seasion:
+ # Detailed comments by each seasion:
 
 +  Seasion1 (January - March):
   Orders were high at the beginning of the quarter with over 60 orders in January, then decreasing to around 50 orders in March.
