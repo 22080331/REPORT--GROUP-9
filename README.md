@@ -188,12 +188,12 @@ The large difference in the number of online orders between states in India is a
     for  clothing.
  
   + Electronics - 20.5%
-   Average rate: Although not as high as Clothing, 20.5% is still a significant rate, showing that electronic devices have a stable 
-   demand in the market.Because electronic products are often high-value and feature constantly upgraded technology. Customers do not buy 
-   these products very often, but when they do, they are willing to pay more. This reflects the development of devices such as phones, c 
-   computers, and technological home appliances.
-   Electronics is a highly profitable field due to stable demand and often high order values. Businesses can consider developing new 
-   technology products or other electronic products to meet the diverse needs of customers.
+     Average rate: Although not as high as Clothing, 20.5% is still a significant rate, showing that electronic devices have a stable 
+     demand in the market.Because electronic products are often high-value and feature constantly upgraded technology. Customers do not buy 
+     these products very often, but when they do, they are willing to pay more. This reflects the development of devices such as phones, c 
+     computers, and technological home appliances.
+     Electronics is a highly profitable field due to stable demand and often high order values. Businesses can consider developing new 
+     technology products or other electronic products to meet the diverse needs of customers.
 
  + Furniture - 16.2%
     Lowest percentage: At only 16.2%, Furniture is the least popular category among the three, possibly due to the nature of the product. 
