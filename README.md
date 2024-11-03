@@ -93,7 +93,7 @@ trends and making informed decisions and strategic directions for their business
  ![](images/ảnh1.jpg)  
 
 
--  Overview:
+-Overview:
    The chart "Distribution Top 10 States by order" shows the number of orders in the 10 states with the highest number of 
    orders in India. The height of each column corresponds to the number of orders placed in that state, namely:
  + Maharashtra and Madhya Pradesh lead with similar orders, 94 and 93 orders respectively. These two states dominate the other states.
@@ -106,25 +106,25 @@ trends and making informed decisions and strategic directions for their business
 
 The large difference in the number of online orders between states in India is a common phenomenon and has many factors influencing it, specifically:
 
--Socio-economic factors:
- +  Level of economic development: States with more developed economies and higher per capita income often have higher consumption demand, 
-    including online consumption.
- +  Infrastructure: Developed transportation, telecommunications, and banking systems will facilitate online shopping.
- +  Level of urbanization: Large cities are often densely populated, have more young people and have access to high technology, thereby 
-    promoting the demand for online shopping.
- +  Level of technology popularity: The higher the rate of people accessing the internet and using smart devices, the greater the demand 
-    for online shopping.
-
--Socio-cultural factors:
- + Consumer preferences: Each region has different cultures, customs, and practices, leading to differences in consumer preferences.
- + Shopping habits: Some regions have a tradition of shopping directly at stores, while others are accustomed to online shopping.
- + Age and gender: Different population structures between states will lead to differences in needs and shopping behaviors.
-
--Market and competition factors:
-  + Presence of e-commerce platforms: Large e-commerce platforms often focus on investing in potential markets, creating competition and 
-    promoting growth.
-  + Promotion and marketing policies: Effective promotion and marketing programs will attract customers and increase sales.
-  + Payment methods: The development of online payment methods will facilitate online shopping.
+  -Socio-economic factors:
+   +  Level of economic development: States with more developed economies and higher per capita income often have higher consumption demand, 
+      including online consumption.
+   +  Infrastructure: Developed transportation, telecommunications, and banking systems will facilitate online shopping.
+   +  Level of urbanization: Large cities are often densely populated, have more young people and have access to high technology, thereby 
+      promoting the demand for online shopping.
+   +  Level of technology popularity: The higher the rate of people accessing the internet and using smart devices, the greater the demand 
+      for online shopping.
+  
+  -Socio-cultural factors:
+   + Consumer preferences: Each region has different cultures, customs, and practices, leading to differences in consumer preferences.
+   + Shopping habits: Some regions have a tradition of shopping directly at stores, while others are accustomed to online shopping.
+   + Age and gender: Different population structures between states will lead to differences in needs and shopping behaviors.
+  
+  -Market and competition factors:
+    + Presence of e-commerce platforms: Large e-commerce platforms often focus on investing in potential markets, creating competition and 
+      promoting growth.
+    + Promotion and marketing policies: Effective promotion and marketing programs will attract customers and increase sales.
+    + Payment methods: The development of online payment methods will facilitate online shopping.
 
 
 
@@ -189,7 +189,7 @@ The large difference in the number of online orders between states in India is a
     Although demand may seem low, furniture is still a category that can be highly profitable due to large order values. Businesses can 
     target high-end customers or expand into smaller, more easily consumed interior decoration products.
 
-==>  Conclusion:
+ Conclusion:
   This chart not only shows the distribution of orders across categories but also provides insight into market demand and customer shopping 
   behavior. Businesses can use it to adjust their business strategies, focusing on high-demand categories such as clothing, while 
   maintaining a presence in other categories to serve the diverse needs of the market.
@@ -225,10 +225,8 @@ The large difference in the number of online orders between states in India is a
  
   +  Handkerchiefs and scarves also have a significant presence, indicating a potential market in these items.
 
-Tables and Trousers have the lowest sales, which could indicate potential areas for improvement in marketing or product offerings.
 
 - Additional Considerations:
-  
  +  It would be helpful to overlay this chart with trends.
 
  +  Analyzing sales data alongside other metrics and factors such as revenue, benefits, and customer demographics can provide additional 
