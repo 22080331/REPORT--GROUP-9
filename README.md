@@ -115,12 +115,12 @@ The large difference in the number of online orders between states in India is a
  +  Level of technology popularity: The higher the rate of people accessing the internet and using smart devices, the greater the demand 
     for online shopping.
 
-- Socio-cultural factors:
+-Socio-cultural factors:
  + Consumer preferences: Each region has different cultures, customs, and practices, leading to differences in consumer preferences.
  + Shopping habits: Some regions have a tradition of shopping directly at stores, while others are accustomed to online shopping.
  + Age and gender: Different population structures between states will lead to differences in needs and shopping behaviors.
 
--	Market and competition factors:
+-Market and competition factors:
   + Presence of e-commerce platforms: Large e-commerce platforms often focus on investing in potential markets, creating competition and 
     promoting growth.
   + Promotion and marketing policies: Effective promotion and marketing programs will attract customers and increase sales.
@@ -158,7 +158,7 @@ The large difference in the number of online orders between states in India is a
 
  ![](images/category.jpg) 
  
- - Overview:
+-Overview:
  
   + Clothing is clearly dominant, reflecting strong customer demand for fashion products.
 
@@ -166,14 +166,14 @@ The large difference in the number of online orders between states in India is a
 
   + Furniture is the category with the lowest demand, possibly due to the product's high cost and infrequent purchase characteristics.
 
-- Analysis by Category
-+ Clothing - 63.3%
-   Dominance: With 63.3%,This shows a strong focus on fashion product Because fashion is often a necessity, abundant, and diverse, leading 
-   to high consumption. In addition, the seasonal factor and frequently changing fashion trends also encourage consumers to shop more.This 
-   also suggests that if businesses want to increase profits, they can consider adding new product lines or special promotional campaigns 
-   for  clothing.
-
-+ Electronics - 20.5%
+-Analysis by Category
+  + Clothing - 63.3%
+    Dominance: With 63.3%,This shows a strong focus on fashion product Because fashion is often a necessity, abundant, and diverse, leading 
+    to high consumption. In addition, the seasonal factor and frequently changing fashion trends also encourage consumers to shop more.This 
+    also suggests that if businesses want to increase profits, they can consider adding new product lines or special promotional campaigns 
+    for  clothing.
+ 
+  + Electronics - 20.5%
    Average rate: Although not as high as Clothing, 20.5% is still a significant rate, showing that electronic devices have a stable 
    demand in the market.Because electronic products are often high-value and feature constantly upgraded technology. Customers do not buy 
    these products very often, but when they do, they are willing to pay more. This reflects the development of devices such as phones, c 
@@ -182,12 +182,12 @@ The large difference in the number of online orders between states in India is a
    technology products or other electronic products to meet the diverse needs of customers.
 
  + Furniture - 16.2%
-   Lowest percentage: At only 16.2%, Furniture is the least popular category among the three, possibly due to the nature of the product. 
-   Because furniture is often high-value and does not need to be purchased frequently, resulting in fewer orders than products such as 
-   clothing. In addition, furniture purchases are often tied to long-term needs or special occasions such as moving house or renovating a 
-   living space.
-   Although demand may seem low, furniture is still a category that can be highly profitable due to large order values. Businesses can 
-   target high-end customers or expand into smaller, more easily consumed interior decoration products.
+    Lowest percentage: At only 16.2%, Furniture is the least popular category among the three, possibly due to the nature of the product. 
+    Because furniture is often high-value and does not need to be purchased frequently, resulting in fewer orders than products such as 
+    clothing. In addition, furniture purchases are often tied to long-term needs or special occasions such as moving house or renovating a 
+    living space.
+    Although demand may seem low, furniture is still a category that can be highly profitable due to large order values. Businesses can 
+    target high-end customers or expand into smaller, more easily consumed interior decoration products.
 
 ==>  Conclusion:
   This chart not only shows the distribution of orders across categories but also provides insight into market demand and customer shopping 
@@ -199,7 +199,7 @@ The large difference in the number of online orders between states in India is a
 
  ![](images/subcategory.jpg) 
 
-- The chart shows:  
+-The chart shows:  
 
   + Quantity: Each column in the chart represents the product names belonging to a particular sub-category.
 
@@ -211,14 +211,14 @@ The large difference in the number of online orders between states in India is a
 
  + Tables and Trousers are the least frequent sub-categories.
 
-- Data Points:
+-Data Points:
  +  The chart shows the distribution of sales across various sub-categories.
 
  +  The y-axis represents the count of sales for each sub-category.
 
  +  The x-axis lists the categories in descending order of frequency.
   
-- Insights:
+-Insights:
   +  The company appears to be selling a wide range of products, with a heavy focus on apparel and accessories.
     
   +  Sarees are the most popular item, indicating a potential and essential market demand for this product.
