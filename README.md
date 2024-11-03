@@ -20,7 +20,7 @@
 
 # 1.INTRODUCTION 
 -Online sales is the sale of goods over the Internet, allowing customers to easily purchase and pay securely online without having to visit a store. .In today's digital age, online sales have become an integral part of the goods business landscape. It has a significant impact on consumer behavior and business strategies, as well as the consumer market and most factors related to the goods business. This project explores the complexities of online sales through data visualization, aiming to uncover trends, patterns, and insights of customer that drive successful e-commerce strategies. We aim to answer essential questions related to sales total, customer buying habits, needs, and seasonal order fluctuations.
-This analysis contributes to businesses' ability to understand their current performance. Additionally, it supports forecasting future  
+This analysis contributes to businesses' ability to understand their current performance. Additionally, it supports forecasting future 
 trends and making informed decisions and strategic directions for their business.
 
 ## 2.DATA SOURCES📌
