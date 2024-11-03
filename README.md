@@ -264,8 +264,10 @@ Tables and Trousers have the lowest sales, which could indicate potential areas 
   + The least used method “EMI” can be described as 8% and people are probably not going for this payment mode frequently with regard to 
     their order of payment that is made in parts per month.
 
---> Conclusion:
-The pie chart indicates that among all the customers  most prefer to pay either using COD or UPI. The high percentage of customers using COD means that they trust and are comfortable with the idea of paying cash upon delivery. A high share of UPI shows a tendency to the direction of cashless transactions. On the other hand, low percentages for debit, credit and EMI suggest that many customers prefer straightforward and easy means of payment.
+Conclusion:
+ The pie chart indicates that among all the customers  most prefer to pay either using COD or UPI. The high percentage of customers using COD means that they trust and are comfortable 
+ with the idea of paying cash upon delivery. A high share of UPI shows a tendency to the direction of cashless transactions. On the other hand, low percentages for debit, credit and 
+ EMI suggest that many customers prefer straightforward and easy means of payment.
 
 
 # 6.CONCLUSION
