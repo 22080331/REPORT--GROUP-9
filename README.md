@@ -87,7 +87,7 @@ trends and making informed decisions and strategic directions for their business
    There was a clear recovery, the number of orders increased again, peaking in November (over 40 orders) and then decreasing slightly in 
    December, reflecting the growth trend at the end of the year.
 
-###### 5.1. Distribution of state order
+###### 5.1. Distribution of State order
 
   
  ![](images/ảnh1.jpg)  
@@ -143,7 +143,7 @@ The large difference in the number of online orders between states in India is a
 
 
 
-###### 5.2.TREND BETW
+###### 5.2.The relationship between Amount and Profit.
 
   ![](images/nam1234.jpg) 
 
