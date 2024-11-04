@@ -277,6 +277,7 @@ The large difference in the number of online orders between states in India is a
 
 + Electronic payments are increasingly popular: such as UPI, Debit Cards, Credit Cards and installment payments (EMI) 
    also account for a significant proportion, showing the growth of non-cash payment methods.
+
   With:
   
   UPI(Unified Payments Interface): 22.1%
