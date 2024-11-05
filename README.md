@@ -208,7 +208,7 @@ trends and making informed decisions and strategic directions for their business
      Electronics is a highly profitable field due to stable demand and often high order values. Businesses can consider developing new 
      technology products or other electronic products to meet the diverse needs of customers.
 
- + Furniture - 16.2%
+  + Furniture - 16.2%
     Lowest percentage: At only 16.2%, Furniture is the least popular category among the three, possibly due to the nature of the product. 
     Because furniture is often high-value and does not need to be purchased frequently, resulting in fewer orders than products such as 
     clothing. In addition, furniture purchases are often tied to long-term needs or special occasions such as moving house or renovating a 
@@ -216,7 +216,7 @@ trends and making informed decisions and strategic directions for their business
     Although demand may seem low, furniture is still a category that can be highly profitable due to large order values. Businesses can 
     target high-end customers or expand into smaller, more easily consumed interior decoration products.
 
- #### Conclusion:
+ ### Conclusion:
   This chart not only shows the distribution of orders across categories but also provides insight into market demand and customer shopping 
   behavior. Businesses can use it to adjust their business strategies, focusing on high-demand categories such as clothing, while 
   maintaining a presence in other categories to serve the diverse needs of the market.
@@ -225,12 +225,12 @@ trends and making informed decisions and strategic directions for their business
 ###### 5.4.DISTRIBUTION OF SUB-CATEGORY
 
  ![](images/subcategory.jpg) 
-
+ 
 - ### The chart shows:  
 
-  + Quantity: Each column in the chart represents the product names belonging to a particular sub-category.
+ + Quantity: Each column in the chart represents the product names belonging to a particular sub-category.
 
-  + Sub-category: The sub-categories are shown from left to right in decreasing order of quantity.
+ + Sub-category: The sub-categories are shown from left to right in decreasing order of quantity.
 
 - ### Sub-Category Distribution:
 
