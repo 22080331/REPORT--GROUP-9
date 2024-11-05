@@ -92,8 +92,7 @@ trends and making informed decisions and strategic directions for their business
   
  ![](images/ảnh1.jpg)  
 
-- ### The chart "Distribution Top 10 States by order" shows the number of orders in the 10 states with the highest number of 
-  ### orders in India. The height of each column corresponds to the number of orders placed in that state, namely:
+- ### The chart "Distribution Top 10 States by order" shows the number of orders in the 10 states with the highest number of  orders in India. The height of each column corresponds to the number of orders placed in that state, namely:
   
   + Maharashtra and Madhya Pradesh lead with similar orders, 94 and 93 orders respectively. These two states dominate the other states.
        
@@ -104,8 +103,7 @@ trends and making informed decisions and strategic directions for their business
   + States at the bottom of the list, such as Goa, Sikkim, and Tamil Nadu have only 8 to 12 orders, indicating a much lower consumption
        level than the leading states.
        
-### Overall, Maharashtra and Madhya Pradesh are the two states with the most active online ordering activity, while other states have 
-### significant variations in the number of orders.
+### Overall, Maharashtra and Madhya Pradesh are the two states with the most active online ordering activity, while other states have significant variations in the number of orders.
 
 ### The large difference in the number of online orders between states in India is a common phenomenon and has many factors influencing it, specifically:
 
@@ -246,11 +244,12 @@ trends and making informed decisions and strategic directions for their business
  +  The x-axis lists the categories in descending order of frequency.
   
 - ### Insights:
-  +  The company appears to be selling a wide range of products, with a heavy focus on apparel and accessories.
+  
+ +  The company appears to be selling a wide range of products, with a heavy focus on apparel and accessories.
     
-  +  Sarees are the most popular item, indicating a potential and essential market demand for this product.
+ +  Sarees are the most popular item, indicating a potential and essential market demand for this product.
  
-  +  Handkerchiefs and scarves also have a significant presence, indicating a potential market in these items.
+ +  Handkerchiefs and scarves also have a significant presence, indicating a potential market in these items.
 
 
 - ### Additional Considerations:
