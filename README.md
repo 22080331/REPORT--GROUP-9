@@ -92,7 +92,7 @@ trends and making informed decisions and strategic directions for their business
   
  ![](images/ảnh1.jpg)  
 
-- The chart "Distribution Top 10 States by order" shows the number of orders in the 10 states with the highest number of 
+- ### The chart "Distribution Top 10 States by order" shows the number of orders in the 10 states with the highest number of 
   orders in India. The height of each column corresponds to the number of orders placed in that state, namely:
   
   + Maharashtra and Madhya Pradesh lead with similar orders, 94 and 93 orders respectively. These two states dominate the other states.
@@ -104,12 +104,12 @@ trends and making informed decisions and strategic directions for their business
   + States at the bottom of the list, such as Goa, Sikkim, and Tamil Nadu have only 8 to 12 orders, indicating a much lower consumption
        level than the leading states.
        
-=> Overall, Maharashtra and Madhya Pradesh are the two states with the most active online ordering activity, while other states have 
-   significant variations in the number of orders.
+## Overall, Maharashtra and Madhya Pradesh are the two states with the most active online ordering activity, while other states have 
+  significant variations in the number of orders.
 
-The large difference in the number of online orders between states in India is a common phenomenon and has many factors influencing it, specifically:
+### The large difference in the number of online orders between states in India is a common phenomenon and has many factors influencing it, specifically:
 
--Socio-economic factors:
+- #### Socio-economic factors:
   
   +  Level of economic development: States with more developed economies and higher per capita income often have higher consumption demand, 
       including online consumption.
@@ -122,7 +122,7 @@ The large difference in the number of online orders between states in India is a
   +   Level of technology popularity: The higher the rate of people accessing the internet and using smart devices, the greater the demand 
       for online shopping.
   
-  -Socio-cultural factors:
+  - #### Socio-cultural factors:
   
   + Consumer preferences: Each region has different cultures, customs, and practices, leading to differences in consumer preferences.
    
@@ -130,7 +130,7 @@ The large difference in the number of online orders between states in India is a
     
   + Age and gender: Different population structures between states will lead to differences in needs and shopping behaviors.
   
-  -Market and competition factors:
+  - #### Market and competition factors:
   
   + Presence of e-commerce platforms: Large e-commerce platforms often focus on investing in potential markets, creating competition and 
       promoting growth.
@@ -147,14 +147,14 @@ The large difference in the number of online orders between states in India is a
 
   ![](images/nam1234.jpg) 
 
-- Positive, Weak Relationship:
+- ### Positive, Weak Relationship:
  
   + The scatterplot (and regression line) show a positive connection between "Amount" and "Profit." The line slopes a bit upward. However, 
   this connection is weak (as shown by the low
   
   + R² value of 0.125). This means that only 12.5% of the changes in "Profit" can be explained by variations in "Amount." Although the relationship exists, it’s not very strong
   
-- Regression Line, Coefficients:
+- ### Regression Line, Coefficients:
  
   + The regression coefficient is roughly 0.1128: this shows that for every extra unit in "Amount," "Profit" goes up by a tiny amount (around 
     0.1128 units).
@@ -162,7 +162,7 @@ The large difference in the number of online orders between states in India is a
   + The intercept is -8.2913 (which means) if the "Amount" were zero, the model predicts a small negative profit. However, this is mainly for 
     interpretation rather than practical application.
   
-- Data Scatter, Variability:
+- ### Data Scatter, Variability:
  
   + The scatterplot shows a wide spread of data points. This indicates a lot of variability in "Profit" for a certain "Amount." However, this 
    dispersion demonstrates that the relationship between "Amount" and "Profit" isn't consistent. Although many points are close (to the 
@@ -171,7 +171,7 @@ The large difference in the number of online orders between states in India is a
   + The large shaded space (which surrounds the regression line) shows the confidence interval. This area highlights the uncertainty in the 
     predictions made from this model. Although we have data, the range can vary because of different factors influencing the results.
 
-- Low R²:
+- ### Low R²:
   
   + The low R² value (0.125) suggests that, although "Amount" has a slight positive effect on "Profit," it isn’t a reliable predictor. 
 
@@ -184,7 +184,7 @@ The large difference in the number of online orders between states in India is a
 
  ![](images/category.jpg) 
  
--Overview:
+- ### Overview:
  
   + Clothing is clearly dominant, reflecting strong customer demand for fashion products.
 
@@ -192,7 +192,7 @@ The large difference in the number of online orders between states in India is a
 
   + Furniture is the category with the lowest demand, possibly due to the product's high cost and infrequent purchase characteristics.
 
--Analysis by Category
+- ##### Analysis by Category
 
   + Clothing - 63.3%
     Dominance: With 63.3%,This shows a strong focus on fashion product Because fashion is often a necessity, abundant, and diverse, leading 
@@ -216,7 +216,7 @@ The large difference in the number of online orders between states in India is a
     Although demand may seem low, furniture is still a category that can be highly profitable due to large order values. Businesses can 
     target high-end customers or expand into smaller, more easily consumed interior decoration products.
 
- Conclusion:
+ #### Conclusion:
   This chart not only shows the distribution of orders across categories but also provides insight into market demand and customer shopping 
   behavior. Businesses can use it to adjust their business strategies, focusing on high-demand categories such as clothing, while 
   maintaining a presence in other categories to serve the diverse needs of the market.
@@ -226,26 +226,26 @@ The large difference in the number of online orders between states in India is a
 
  ![](images/subcategory.jpg) 
 
--The chart shows:  
+- ### The chart shows:  
 
   + Quantity: Each column in the chart represents the product names belonging to a particular sub-category.
 
   + Sub-category: The sub-categories are shown from left to right in decreasing order of quantity.
 
--Sub-Category Distribution:
+- ### Sub-Category Distribution:
 
  + Saree is the most frequent sub-category, followed by Hankerchief and Stole.
 
  + Tables and Trousers are the least frequent sub-categories.
 
--Data Points:
+- ### Data Points:
  +  The chart shows the distribution of sales across various sub-categories.
 
  +  The y-axis represents the count of sales for each sub-category.
 
  +  The x-axis lists the categories in descending order of frequency.
   
--Insights:
+- ### Insights:
   +  The company appears to be selling a wide range of products, with a heavy focus on apparel and accessories.
     
   +  Sarees are the most popular item, indicating a potential and essential market demand for this product.
@@ -253,13 +253,13 @@ The large difference in the number of online orders between states in India is a
   +  Handkerchiefs and scarves also have a significant presence, indicating a potential market in these items.
 
 
-- Additional Considerations:
+- ### Additional Considerations:
  +  It would be helpful to overlay this chart with trends.
 
  +  Analyzing sales data alongside other metrics and factors such as revenue, benefits, and customer demographics can provide additional 
     insights and insights.
 
-- Recommendations:
+- ### Recommendations:
   
  + Focus on promoting Sarees, Hankerchiefs, and Stoles to capitalize on their popularity and provide items that customers need.
 
@@ -271,7 +271,7 @@ The large difference in the number of online orders between states in India is a
 
 ![](images/newplot.png)
 
--The pie chart shows an overview of customers' payment habits:
+- ### The pie chart shows an overview of customers payment habits:
 
  + COD is the most popular method (45.6%) showing that many people still prefer to check the goods before paying.
 
@@ -288,7 +288,7 @@ The large difference in the number of online orders between states in India is a
     
     EMI(Equated Monthly Instalment): 8%
   
--Reasons:
+- ### Reasons:
 
  + Diversification of payment methods: Customers can choose more payment methods, meeting different needs and preferences of each person
 
