@@ -69,23 +69,23 @@ trends and making informed decisions and strategic directions for their business
   September, before recovering towards the end of the year.
 
  - #### Detailed comments by each seasion:
-
-+  Seasion1 (January - March):
-  Orders were high at the beginning of the quarter with over 60 orders in January, then decreasing to around 50 orders in March.
-  This quarter has a decreasing trend from high to low, but still remains higher than the following quarters. This may be a peak period, 
-  possibly due to increased demand at the beginning of the year.
   
-+  Seasion 2 (April - June):
-  The number of orders continued to decrease sharply, especially in April and May, with only about 30 orders. This is the lowest period of 
-  the year with a significant decrease reflecting changes in demand or external factors affecting the number of orders.
-
-+  Seasion 3 (July - September):
-  The number of orders remained low and quite stable around the 30-order mark. This can be considered a "slowdown" period for the number of 
-  orders, possibly due to seasonal factors or business cycles.
-
-+  Seasion 4 (October - December):
-   There was a clear recovery, the number of orders increased again, peaking in November (over 40 orders) and then decreasing slightly in 
-   December, reflecting the growth trend at the end of the year.
+  +  Seasion1 (January - March):
+    Orders were high at the beginning of the quarter with over 60 orders in January, then decreasing to around 50 orders in March.
+    This quarter has a decreasing trend from high to low, but still remains higher than the following quarters. This may be a peak period, 
+    possibly due to increased demand at the beginning of the year.
+    
+  +  Seasion 2 (April - June):
+    The number of orders continued to decrease sharply, especially in April and May, with only about 30 orders. This is the lowest period of 
+    the year with a significant decrease reflecting changes in demand or external factors affecting the number of orders.
+  
+  +  Seasion 3 (July - September):
+    The number of orders remained low and quite stable around the 30-order mark. This can be considered a "slowdown" period for the number of 
+    orders, possibly due to seasonal factors or business cycles.
+  
+  +  Seasion 4 (October - December):
+     There was a clear recovery, the number of orders increased again, peaking in November (over 40 orders) and then decreasing slightly in 
+     December, reflecting the growth trend at the end of the year.
 
 ###### 5.1. Distribution of State order
 
@@ -215,9 +215,9 @@ trends and making informed decisions and strategic directions for their business
     target high-end customers or expand into smaller, more easily consumed interior decoration products.
 
 - ### Conclusion:
-  This chart not only shows the distribution of orders across categories but also provides insight into market demand and customer shopping 
-  behavior. Businesses can use it to adjust their business strategies, focusing on high-demand categories such as clothing, while 
-  maintaining a presence in other categories to serve the diverse needs of the market.
+    This chart not only shows the distribution of orders across categories but also provides insight into market demand and customer shopping 
+    behavior. Businesses can use it to adjust their business strategies, focusing on high-demand categories such as clothing, while 
+    maintaining a presence in other categories to serve the diverse needs of the market.
 
    
 ###### 5.4.DISTRIBUTION OF SUB-CATEGORY
