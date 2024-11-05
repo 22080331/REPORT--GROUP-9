@@ -271,31 +271,31 @@ The large difference in the number of online orders between states in India is a
 
 ![](images/newplot.png)
 
--The pie chart shows an overview of customers' payment habits:
+- The pie chart shows an overview of customers' payment habits:\
 
-+ COD is the most popular method (45.6%) showing that many people still prefer to check the goods before paying.
+ + COD is the most popular method (45.6%) showing that many people still prefer to check the goods before paying.
 
-+ Electronic payments are increasingly popular: such as UPI, Debit Cards, Credit Cards and installment payments (EMI) 
+ + Electronic payments are increasingly popular: such as UPI, Debit Cards, Credit Cards and installment payments (EMI) 
    also account for a significant proportion, showing the growth of non-cash payment methods.
 
-  With:
+    With:
+    
+    UPI(Unified Payments Interface): 22.1%
+    
+    Debit Card: 13.5%
+    
+    Credit Card: 10.9%
+    
+    EMI(Equated Monthly Instalment): 8%
   
-  UPI(Unified Payments Interface): 22.1%
-  
-  Debit Card: 13.5%
-  
-  Credit Card: 10.9%
-  
-  EMI(Equated Monthly Instalment): 8%
-  
-Reasons:
+- Reasons:
 
-+Diversification of payment methods: Customers can choose more payment methods, meeting different needs and preferences of each person
+ + Diversification of payment methods: Customers can choose more payment methods, meeting different needs and preferences of each person
 
-+Revealing the development potential of electronic payments: Although COD is still dominant, the proportion of electronic payment methods is increasing, 
- showing the trend of switching  from cash payment to non-cash payment.
+ + Revealing the development potential of electronic payments: Although COD is still dominant, the proportion of electronic payment methods is increasing, 
+   showing the trend of switching  from cash payment to non-cash payment.
 
-+The popularity of mobile payment applications, promotional policies, and the reliability of electronic payment systems can be factors driving the growth of these payment methods.
+ + The popularity of mobile payment applications, promotional policies, and the reliability of electronic payment systems can be factors driving the growth of these payment methods.
 
 
 # 6.CONCLUSION
