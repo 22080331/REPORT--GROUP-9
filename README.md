@@ -103,7 +103,7 @@ trends and making informed decisions and strategic directions for their business
   + States at the bottom of the list, such as Goa, Sikkim, and Tamil Nadu have only 8 to 12 orders, indicating a much lower consumption
        level than the leading states.
        
-### Overall, Maharashtra and Madhya Pradesh are the two states with the most active online ordering activity, while other states have significant variations in the number of orders.
+- ### Overall, Maharashtra and Madhya Pradesh are the two states with the most active online ordering activity, while other states have significant variations in the number of orders.
 
 ### The large difference in the number of online orders between states in India is a common phenomenon and has many factors influencing it, specifically:
 
@@ -214,7 +214,7 @@ trends and making informed decisions and strategic directions for their business
     Although demand may seem low, furniture is still a category that can be highly profitable due to large order values. Businesses can 
     target high-end customers or expand into smaller, more easily consumed interior decoration products.
 
- ### Conclusion:
+### Conclusion:
   This chart not only shows the distribution of orders across categories but also provides insight into market demand and customer shopping 
   behavior. Businesses can use it to adjust their business strategies, focusing on high-demand categories such as clothing, while 
   maintaining a presence in other categories to serve the diverse needs of the market.
