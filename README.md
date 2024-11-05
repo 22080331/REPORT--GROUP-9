@@ -57,7 +57,7 @@ trends and making informed decisions and strategic directions for their business
 
 
 
-###### 5.0. Distribution of order by monthly
+###### 4.0. Distribution of order by monthly
 
 ![](images/ảnh3.png)  
 
@@ -87,7 +87,7 @@ trends and making informed decisions and strategic directions for their business
        There was a clear recovery, the number of orders increased again, peaking in November (over 40 orders) and then decreasing slightly in 
        December, reflecting the growth trend at the end of the year.
 
-###### 5.1. Distribution of State order
+###### 4.1. Distribution of State order
 
   
  ![](images/ảnh1.jpg)  
@@ -141,7 +141,7 @@ trends and making informed decisions and strategic directions for their business
 
 
 
-###### 5.2.The relationship between Amount and Profit.
+###### 4.2.The relationship between Amount and Profit.
 
   ![](images/nam1234.jpg) 
 
@@ -178,7 +178,7 @@ trends and making informed decisions and strategic directions for their business
 
 
 
-###### 5.3.DISTRIBUTION OF CATEGORY
+###### 4.3.DISTRIBUTION OF CATEGORY
 
  ![](images/category.jpg) 
  
@@ -220,7 +220,7 @@ trends and making informed decisions and strategic directions for their business
     maintaining a presence in other categories to serve the diverse needs of the market.
 
    
-###### 5.4.DISTRIBUTION OF SUB-CATEGORY
+###### 4.4.DISTRIBUTION OF SUB-CATEGORY
 
  ![](images/subcategory.jpg) 
  
@@ -266,7 +266,7 @@ trends and making informed decisions and strategic directions for their business
   
    + Consider diversifying the product range or implementing targeted marketing strategies for these sub-categories.
 
-###### 5.5.DISTRIBUTION OF PAYMENT MODE
+###### 4.5.DISTRIBUTION OF PAYMENT MODE
 
 ![](images/newplot.png)
 
@@ -297,11 +297,11 @@ trends and making informed decisions and strategic directions for their business
    + The popularity of mobile payment applications, promotional policies, and the reliability of electronic payment systems can be factors driving the growth of these payment methods.
   
 
-# 6.CONCLUSION
+# 5.CONCLUSION
 
 As we can see, online sales are an extremely important form of business in the context of goods trading. This is clearly demonstrated in the charts we present in various aspects. Overall, all data on online business has fluctuations and uneven development in each aspect that we analyze.
 
-# 7.REFERENCES
+# 6.REFERENCES
     
   [https://www.kaggle.com/datasets/samruddhi4040/online-sales-dataGithub](
                   
