@@ -271,7 +271,7 @@ The large difference in the number of online orders between states in India is a
 
 ![](images/newplot.png)
 
-- The pie chart shows an overview of customers' payment habits:\
+-The pie chart shows an overview of customers' payment habits:
 
  + COD is the most popular method (45.6%) showing that many people still prefer to check the goods before paying.
 
@@ -288,7 +288,7 @@ The large difference in the number of online orders between states in India is a
     
     EMI(Equated Monthly Instalment): 8%
   
-- Reasons:
+-Reasons:
 
  + Diversification of payment methods: Customers can choose more payment methods, meeting different needs and preferences of each person
 
