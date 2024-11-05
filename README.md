@@ -70,22 +70,22 @@ trends and making informed decisions and strategic directions for their business
 
  - #### Detailed comments by each seasion:
   
-  +  Seasion1 (January - March):
-    Orders were high at the beginning of the quarter with over 60 orders in January, then decreasing to around 50 orders in March.
-    This quarter has a decreasing trend from high to low, but still remains higher than the following quarters. This may be a peak period, 
-    possibly due to increased demand at the beginning of the year.
+    +  Seasion1 (January - March):
+      Orders were high at the beginning of the quarter with over 60 orders in January, then decreasing to around 50 orders in March.
+      This quarter has a decreasing trend from high to low, but still remains higher than the following quarters. This may be a peak period, 
+      possibly due to increased demand at the beginning of the year.
+      
+    +  Seasion 2 (April - June):
+      The number of orders continued to decrease sharply, especially in April and May, with only about 30 orders. This is the lowest period of 
+      the year with a significant decrease reflecting changes in demand or external factors affecting the number of orders.
     
-  +  Seasion 2 (April - June):
-    The number of orders continued to decrease sharply, especially in April and May, with only about 30 orders. This is the lowest period of 
-    the year with a significant decrease reflecting changes in demand or external factors affecting the number of orders.
-  
-  +  Seasion 3 (July - September):
-    The number of orders remained low and quite stable around the 30-order mark. This can be considered a "slowdown" period for the number of 
-    orders, possibly due to seasonal factors or business cycles.
-  
-  +  Seasion 4 (October - December):
-     There was a clear recovery, the number of orders increased again, peaking in November (over 40 orders) and then decreasing slightly in 
-     December, reflecting the growth trend at the end of the year.
+    +  Seasion 3 (July - September):
+      The number of orders remained low and quite stable around the 30-order mark. This can be considered a "slowdown" period for the number of 
+      orders, possibly due to seasonal factors or business cycles.
+    
+    +  Seasion 4 (October - December):
+       There was a clear recovery, the number of orders increased again, peaking in November (over 40 orders) and then decreasing slightly in 
+       December, reflecting the growth trend at the end of the year.
 
 ###### 5.1. Distribution of State order
 
@@ -226,45 +226,45 @@ trends and making informed decisions and strategic directions for their business
  
 - ### The chart shows:  
 
- + Quantity: Each column in the chart represents the product names belonging to a particular sub-category.
-
- + Sub-category: The sub-categories are shown from left to right in decreasing order of quantity.
+   + Quantity: Each column in the chart represents the product names belonging to a particular sub-category.
+  
+   + Sub-category: The sub-categories are shown from left to right in decreasing order of quantity.
 
 - ### Sub-Category Distribution:
 
- + Saree is the most frequent sub-category, followed by Hankerchief and Stole.
-
- + Tables and Trousers are the least frequent sub-categories.
+   + Saree is the most frequent sub-category, followed by Hankerchief and Stole.
+  
+   + Tables and Trousers are the least frequent sub-categories.
 
 - ### Data Points:
- +  The chart shows the distribution of sales across various sub-categories.
-
- +  The y-axis represents the count of sales for each sub-category.
-
- +  The x-axis lists the categories in descending order of frequency.
+   +  The chart shows the distribution of sales across various sub-categories.
+  
+   +  The y-axis represents the count of sales for each sub-category.
+  
+   +  The x-axis lists the categories in descending order of frequency.
   
 - ### Insights:
   
- +  The company appears to be selling a wide range of products, with a heavy focus on apparel and accessories.
-    
- +  Sarees are the most popular item, indicating a potential and essential market demand for this product.
- 
- +  Handkerchiefs and scarves also have a significant presence, indicating a potential market in these items.
+   +  The company appears to be selling a wide range of products, with a heavy focus on apparel and accessories.
+      
+   +  Sarees are the most popular item, indicating a potential and essential market demand for this product.
+   
+   +  Handkerchiefs and scarves also have a significant presence, indicating a potential market in these items.
 
 
 - ### Additional Considerations:
- +  It would be helpful to overlay this chart with trends.
-
- +  Analyzing sales data alongside other metrics and factors such as revenue, benefits, and customer demographics can provide additional 
-    insights and insights.
+   +  It would be helpful to overlay this chart with trends.
+  
+   +  Analyzing sales data alongside other metrics and factors such as revenue, benefits, and customer demographics can provide additional 
+      insights and insights.
 
 - ### Recommendations:
+    
+   + Focus on promoting Sarees, Hankerchiefs, and Stoles to capitalize on their popularity and provide items that customers need.
   
- + Focus on promoting Sarees, Hankerchiefs, and Stoles to capitalize on their popularity and provide items that customers need.
-
- + Conduct market research to identify the reasons for low sales of Tables and Trousers.
-
- + Consider diversifying the product range or implementing targeted marketing strategies for these sub-categories.
+   + Conduct market research to identify the reasons for low sales of Tables and Trousers.
+  
+   + Consider diversifying the product range or implementing targeted marketing strategies for these sub-categories.
 
 ###### 5.5.DISTRIBUTION OF PAYMENT MODE
 
