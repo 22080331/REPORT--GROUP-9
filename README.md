@@ -20,8 +20,7 @@
 
 # 1.INTRODUCTION 
 -Online sales is the sale of goods over the Internet, allowing customers to easily purchase and pay securely online without having to visit a store. .In today's digital age, online sales have become an integral part of the goods business landscape. It has a significant impact on consumer behavior and business strategies, as well as the consumer market and most factors related to the goods business. This project explores the complexities of online sales through data visualization, aiming to uncover trends, patterns, and insights of customer that drive successful e-commerce strategies. We aim to answer essential questions related to sales total, customer buying habits, needs, and seasonal order fluctuations.
-This analysis contributes to businesses' ability to understand their current performance. Additionally, it supports forecasting future 
-trends and making informed decisions and strategic directions for their business.
+This analysis contributes to businesses ability to understand their current performance. Additionally, it supports forecasting future trends and making informed decisions and strategic directions for their business.
 
 ## 2.DATA SOURCES📌
 
@@ -299,10 +298,11 @@ trends and making informed decisions and strategic directions for their business
 
 # 5.CONCLUSION
 
-As we can see, online sales are an extremely important form of business in the context of goods trading. This is clearly demonstrated in the charts we present in various aspects. Overall, all data on online business has fluctuations and uneven development in each aspect that we analyze.
+As we can see, online sales are an extremely important form of business in the context of goods trading. This is clearly demonstrated in the charts we present in various aspects. Overall, all data on online business has fluctuations and uneven development in each aspect that we analyze as: product type,detailed product classification,regarding payment methods, the relationship between amount  and profit,finally, geographic segmentation...
 
 # 6.REFERENCES
     
-  [https://www.kaggle.com/datasets/samruddhi4040/online-sales-dataGithub](
+  [https://www.kaggle.com/datasets/samruddhi4040/online-sales-dataGithub]
+  
                   
                                                          
