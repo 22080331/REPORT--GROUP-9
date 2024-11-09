@@ -1,9 +1,9 @@
 
-                              INTRODUCTION TO DATA SCIENCE
+                       INTRODUCTION TO DATA SCIENCE
                                                                                                         
-                                                   -Lecturer:EMANUELPLAN
+                                           -Lecturer:EMANUELPLAN
                                                                              
-                              REPORT-GROUP 9 : ONLINE SALES
+                        REPORT-GROUP 9 : ONLINE SALES
 
   ![](images/nab2.jpg)  
 
