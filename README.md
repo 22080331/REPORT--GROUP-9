@@ -305,3 +305,11 @@ As we can see, online sales are an extremely important form of business in the c
   
                   
                                                          
+| Student Number | Student Name        | Task Done                                                                                                                                                          | Remarks by Leader (if any)          | Student Evaluation |
+|----------------|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------|
+| 22080337       | Đinh Lâm Phương     | Do 2 chart Machine Learning, Distribution of category and Comment to chart "Machine Learning"                                                                     |                                     | 100%               |
+| 22080331       | Đặng Trọng Nam      | Do 4 chart "Distribution of (top 10 states by order, order by monthly, sub category by order, paymentmode in Indian)" and Comment to chart "Distribution of paymentmode in Indian" | Did the most work, Excellent!       | 100%               |
+| 22080324       | Trần Khánh Linh     | Introduction and Comment to chart "Distribution of order by monthly"                                                                                               |                                     | 90%                |
+| 22080294       | Hà Ngọc Anh         | Conclusion and Comment to chart "Distribution Top 10 States by order"                                                                                              |                                     | 90%                |
+| 22080304       | Hoàng Quốc Bảo      | Comment to chart "Distribution of category by order", Cleaned data                                                                                                 |                                     | 90%                |
+| 22080319       | Ngô Tiến Huy        | Comment to chart "Distribution of sub category by order", Prepared data                                                                                           |                                     | 90%                |
