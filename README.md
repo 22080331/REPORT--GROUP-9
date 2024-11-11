@@ -304,7 +304,7 @@ As we can see, online sales are an extremely important form of business in the c
   [https://www.kaggle.com/datasets/samruddhi4040/online-sales-dataGithub]
 
   
-                             TEAM EVALUATION
+                                                   TEAM EVALUATION
                                                          
 | Student Number | Student Name        | Task Done                                                                                                                                                          | Remarks by Leader (if any)          | Student Evaluation |
 |----------------|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------|
